@@ -1,0 +1,70 @@
+{
+  "https://www.linkedin.com/search/results/people/?keywords=Data%20Scientist%20New%20Delhi&origin=GLOBAL_SEARCH_HEADER&sid=Uwe_0": {
+    "action": "2",
+    "reasoning": "It's best to scrape the current page to collect the profiles before moving on to the next page. This way we can ensure we have all the available profiles from this page before proceeding."
+  },
+  "https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=Ocp_24": {
+    "action": "2",
+    "reasoning": "It's better to scrape the current page before moving to the next one to ensure we have all the available profiles."
+  },
+  "https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20New%20Delhi&origin=GLOBAL_SEARCH_HEADER&sid=K(D_24": {
+    "action": "2",
+    "reasoning": "It's better to scrape the current page before moving to the next page to ensure we have collected all available profiles."
+  },
+  "https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=vNj_27": {
+    "action": "1",
+    "reasoning": "Since there are still profile cards left on the current page and the next button is available, clicking on the next page will allow us to collect more profiles efficiently."
+  },
+  "https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=4&sid=rJ7_27": {
+    "action": "1",
+    "reasoning": "Clicking the next page will allow us to collect more profiles and gather additional data for our analysis."
+  },
+  "https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=5&sid=fzr_43": {
+    "action": "1",
+    "reasoning": "Clicking the next page will allow us to collect more profiles and continue the scraping process."
+  },
+  "https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=6&sid=58Y_58": {
+    "action": "2",
+    "reasoning": "Since we have collected profiles from the current page, it's a good idea to scrape the current page before deciding whether to move to the next page. This will ensure we have the most up-to-date information before proceeding."
+  },
+  "https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=7&sid=%3A%2CB_73": {
+    "action": "2",
+    "reasoning": "It's better to scrape the current page to collect more profiles before considering clicking on the next page."
+  },
+  "https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=now_73": {
+    "action": "2",
+    "reasoning": "It's best to scrape the current page to collect the profiles before moving on to the next page."
+  },
+  "https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=now_74": {
+    "action": "1",
+    "reasoning": "Since we have collected profiles from the current page and the next button is available, clicking on the next page will allow us to gather more profiles for our dataset."
+  },
+  "https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=3&sid=Zbv_74": {
+    "action": "2",
+    "reasoning": "It's a good idea to scrape the current page to collect more profiles before deciding whether to click on the next page."
+  },
+  "https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=3&sid=Zbv_83": {
+    "action": "1",
+    "reasoning": "Since the next button is available and there are more profiles to collect on the next page, clicking on the next page will help gather additional profiles for the search."
+  },
+  "https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=4&sid=~3z_83": {
+    "action": "2",
+    "reasoning": "It's better to scrape the current page before moving to the next page to ensure we collect all available profiles."
+  },
+  "https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=4&sid=~3z_85": {
+    "action": "1",
+    "reasoning": "Clicking the next page will allow us to collect more profiles and gather additional data for our analysis."
+  },
+  "https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=5&sid=BX!_85": {
+    "action": "1",
+    "reasoning": "Clicking the next page will allow us to collect more profiles and gather additional data, helping us reach our goal of collecting information on Software Engineers in Bhubaneswar."
+  },
+  "https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=6&sid=64Y_85": {
+    "action": "2",
+    "reasoning": "It's a good idea to scrape the current page to collect more profiles before deciding whether to click on the next page."
+  },
+  "https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=6&sid=64Y_104": {
+    "action": "2",
+    "reasoning": "It's better to scrape the current page before deciding whether to click on the next page. This way we ensure we have all the available profiles before moving forward."
+  }
+}

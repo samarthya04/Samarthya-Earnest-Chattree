@@ -1,0 +1,1310 @@
+2025-04-05 22:29:49,106 - INFO - Loaded credentials - Username: chattree.sam@gmail.com
+2025-04-05 22:29:55,190 - INFO - Entered username
+2025-04-05 22:29:55,243 - INFO - Entered password
+2025-04-05 22:29:59,233 - INFO - Clicked login button
+2025-04-05 22:29:59,277 - INFO - Login successful
+2025-04-05 22:30:15,534 - INFO - Navigated to people search page
+2025-04-05 22:30:29,390 - INFO - Searching for: Data Scientist New Delhi
+2025-04-05 22:30:34,490 - INFO - Detected 28 potential profile links
+2025-04-05 22:30:34,588 - INFO - Next button available: True
+2025-04-05 22:30:45,390 - INFO - Navigated to people search page
+2025-04-05 22:31:05,123 - INFO - Searching for: Data Scientist Bhubaneswar
+2025-04-05 22:31:10,252 - INFO - Detected 38 potential profile links
+2025-04-05 22:31:10,325 - INFO - Next button available: True
+2025-04-05 22:31:22,955 - INFO - Navigated to people search page
+2025-04-05 22:31:44,205 - INFO - Searching for: software engineer New Delhi
+2025-04-05 22:31:49,318 - INFO - Detected 32 potential profile links
+2025-04-05 22:31:49,414 - INFO - Next button available: True
+2025-04-05 22:32:03,070 - INFO - Navigated to people search page
+2025-04-05 22:32:23,135 - INFO - Searching for: software engineer Bhubaneswar
+2025-04-05 22:32:28,277 - INFO - Detected 37 potential profile links
+2025-04-05 22:32:28,370 - INFO - Next button available: True
+2025-04-05 22:32:29,629 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 22:32:29,782 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 22:32:29,798 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 22:32:29,798 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 22:32:30,975 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Data%20Scientist%20New%20Delhi&origin=GLOBAL_SEARCH_HEADER&sid=Uwe_0
+2025-04-05 22:32:30,979 - INFO - LLM decided: 2 - It's best to scrape the current page to collect the profiles before moving on to the next page. This way we can ensure we have all the available profiles from this page before proceeding.
+2025-04-05 22:32:36,168 - INFO - Found 37 links with '/in/', filtering for profiles...
+2025-04-05 22:32:36,417 - INFO - Scraped profile: Auroshish Kumar Meher
+View Auroshish Kumar Meher’s profile - https://www.linkedin.com/in/auroshishkumarmeher
+2025-04-05 22:32:36,491 - INFO - Scraped profile: Sahitya Mishra - https://www.linkedin.com/in/ACoAAEPSeO4BD53FYrH4UFmt0_ntONKV1Gg4kNU
+2025-04-05 22:32:36,727 - INFO - Scraped profile: Smriti Naik
+View Smriti Naik’s profile - https://www.linkedin.com/in/smriti-naik-a0067a1a5
+2025-04-05 22:32:36,860 - INFO - Scraped profile: Praneesh Sharma - https://www.linkedin.com/in/ACoAADnfzRQBYUFuSALlJ7N7wVefvatBB85yWKw
+2025-04-05 22:32:36,984 - INFO - Scraped profile: Medhavi Sahgal - https://www.linkedin.com/in/ACoAAD0qVRABro1W9l99jUN1g6axAMArkA5d7lE
+2025-04-05 22:32:37,185 - INFO - Scraped profile: Alankrita Sharma
+View Alankrita Sharma’s profile - https://www.linkedin.com/in/alankrita-sharma-585370223
+2025-04-05 22:32:37,303 - INFO - Scraped profile: Mohd Mohitur Rahaman - https://www.linkedin.com/in/ACoAADJB4q0B7wRMDUMXZTdQ-BlFkF-A0h8bMfc
+2025-04-05 22:32:37,421 - INFO - Scraped profile: Snehil Satyam - https://www.linkedin.com/in/ACoAADRRkZ8BOFI4jWNV-G1eGdGygOm237k2mEg
+2025-04-05 22:32:37,593 - INFO - Scraped profile: Akshita Sah
+View Akshita Sah’s profile - https://www.linkedin.com/in/akshita-sah
+2025-04-05 22:32:37,701 - INFO - Scraped profile: Sheefa Naaz - https://www.linkedin.com/in/ACoAADcyYu0BiUN51JMLbLSDKhmuGI82VNNUAK4
+2025-04-05 22:32:37,917 - INFO - Scraped profile: Somu Kumar
+View Somu Kumar’s profile - https://www.linkedin.com/in/somu-kumar-808155157
+2025-04-05 22:32:38,013 - INFO - Scraped profile: Shriya Chaubey - https://www.linkedin.com/in/ACoAAD3bZXYBzcNf_UC2ghcqKB3j_XAHTKqRLQs
+2025-04-05 22:32:38,265 - INFO - Scraped profile: Geetanjali .
+View Geetanjali .’s profile - https://www.linkedin.com/in/geetanjali-a02a07214
+2025-04-05 22:32:38,388 - INFO - Scraped profile: Ankit Sahoo - https://www.linkedin.com/in/ACoAAB1YP58BFFFQ4vOfur1Usz48utZeEkxFBaQ
+2025-04-05 22:32:38,482 - INFO - Scraped profile: ojasvi agrawal - https://www.linkedin.com/in/ACoAACFFMLABGTxjaxcsLbH1bAeImAmK1wJYaSQ
+2025-04-05 22:32:38,664 - INFO - Scraped profile: Dhiraj Mishra
+View Dhiraj Mishra’s profile - https://www.linkedin.com/in/dhirajmishra98
+2025-04-05 22:32:38,776 - INFO - Scraped profile: Ashutosh Sahoo - https://www.linkedin.com/in/ACoAABvdCwgBrT0reN0zdEgURA8DQ3hZh9Lpgrg
+2025-04-05 22:32:39,001 - INFO - Scraped profile: Harsh Singh Jadon
+View Harsh Singh Jadon’s profile - https://www.linkedin.com/in/harsh-singh-jadon
+2025-04-05 22:32:39,098 - INFO - Scraped profile: Richik Dey - https://www.linkedin.com/in/ACoAAEPnJuYB5lj4LxLICXbq7wZYj6M20bKGZDw
+2025-04-05 22:32:39,380 - INFO - Scraped profile: Swati Doijod
+View Swati Doijod’s profile - https://www.linkedin.com/in/swati-doijod-1a498a283
+2025-04-05 22:32:39,476 - INFO - Scraped profile: Rhythm Saxena - https://www.linkedin.com/in/ACoAAD2jxR8BtVIUF09_wk-6p6GaE-W5X27M5ck
+2025-04-05 22:32:39,576 - INFO - Scraped profile: SOMYA RANJAN BARIK - https://www.linkedin.com/in/ACoAAD9-9sEB2JryJalZfe7DN22WF6Qvzz8NlrE
+2025-04-05 22:32:39,820 - INFO - Scraped profile: Manish Kausik H
+View Manish Kausik H’s profile - https://www.linkedin.com/in/manish-kausik-h-63b369191
+2025-04-05 22:32:39,909 - INFO - Scraped profile: Aditya Bhattacharya - https://www.linkedin.com/in/ACoAAEiMs88BLN-TFzjRA20Rx_Cq_MuyTyBBC0E
+2025-04-05 22:32:39,910 - INFO - Scraped 24 valid profile cards on this page
+2025-04-05 22:32:51,482 - INFO - Detected 37 potential profile links
+2025-04-05 22:32:51,547 - INFO - Next button available: True
+2025-04-05 22:32:51,581 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Data%20Scientist%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=iPK_0
+2025-04-05 22:32:51,581 - INFO - LLM decided: 2 - It's a good idea to scrape the current page to collect the profiles of Data Scientists in Bhubaneswar before deciding whether to click on the next page. This way we can gather more data before considering moving to the next page.
+2025-04-05 22:32:56,668 - INFO - Found 37 links with '/in/', filtering for profiles...
+2025-04-05 22:32:57,372 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 22:32:57,380 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 22:33:08,349 - INFO - Detected 37 potential profile links
+2025-04-05 22:33:08,413 - INFO - Next button available: True
+2025-04-05 22:33:08,435 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=Ocp_0
+2025-04-05 22:33:08,437 - INFO - LLM decided: 2 - It's a good idea to scrape the current page to collect the profiles of software engineers in Bhubaneswar before considering moving to the next page.
+2025-04-05 22:33:13,530 - INFO - Found 37 links with '/in/', filtering for profiles...
+2025-04-05 22:33:14,188 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 22:33:14,196 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 22:33:26,879 - INFO - Detected 37 potential profile links
+2025-04-05 22:33:26,935 - INFO - Next button available: True
+2025-04-05 22:33:26,949 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20New%20Delhi&origin=GLOBAL_SEARCH_HEADER&sid=JF)_0
+2025-04-05 22:33:26,949 - INFO - LLM decided: 2 - It's best to scrape the current page to collect the profiles before considering moving to the next page. This will ensure we gather all available profiles efficiently.
+2025-04-05 22:33:32,022 - INFO - Found 37 links with '/in/', filtering for profiles...
+2025-04-05 22:33:32,568 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 22:33:32,568 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 22:33:46,272 - INFO - Detected 37 potential profile links
+2025-04-05 22:33:46,331 - INFO - Next button available: True
+2025-04-05 22:33:46,342 - INFO - Retrying request to /chat/completions in 0.403980 seconds
+2025-04-05 22:33:47,249 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 22:33:47,468 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 22:33:47,472 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 22:33:47,473 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 22:33:48,422 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=Ocp_24
+2025-04-05 22:33:48,422 - INFO - LLM decided: 2 - It's better to scrape the current page before deciding whether to click next or stop scraping. This way we can ensure we have the most up-to-date information before making a decision.
+2025-04-05 22:33:53,495 - INFO - Found 37 links with '/in/', filtering for profiles...
+2025-04-05 22:33:54,106 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 22:33:54,106 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 22:34:00,355 - INFO - Using cached action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=Ocp_24: {'action': '2', 'reasoning': "It's better to scrape the current page before deciding whether to click next or stop scraping. This way we can ensure we have the most up-to-date information before making a decision."}
+2025-04-05 22:34:00,355 - INFO - LLM decided: 2 - It's better to scrape the current page before deciding whether to click next or stop scraping. This way we can ensure we have the most up-to-date information before making a decision.
+2025-04-05 22:34:05,436 - INFO - Found 37 links with '/in/', filtering for profiles...
+2025-04-05 22:34:05,952 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 22:34:05,952 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 22:34:14,786 - ERROR - Stopping due to potential infinite loop
+2025-04-05 22:34:14,796 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=Ocp_24
+2025-04-05 22:34:14,802 - INFO - LLM decided: 2 - It's a good idea to scrape the current page to collect information from the available profiles before considering moving to the next page.
+2025-04-05 22:34:19,880 - INFO - Found 37 links with '/in/', filtering for profiles...
+2025-04-05 22:34:20,491 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 22:34:20,491 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 22:34:29,010 - ERROR - Stopping due to potential infinite loop
+2025-04-05 22:34:29,013 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=Ocp_24
+2025-04-05 22:34:29,013 - INFO - LLM decided: 2 - It's better to scrape the current page to collect the profiles before moving on to the next page. This will ensure we don't miss any profiles that are currently visible.
+2025-04-05 22:34:34,101 - INFO - Found 37 links with '/in/', filtering for profiles...
+2025-04-05 22:34:34,746 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 22:34:34,746 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 22:34:41,509 - ERROR - Stopping due to potential infinite loop
+2025-04-05 22:34:41,509 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=Ocp_24
+2025-04-05 22:34:41,509 - INFO - LLM decided: 2 - It's better to scrape the current page before moving to the next one to ensure we have all the available profiles.
+2025-04-05 22:34:46,589 - INFO - Found 37 links with '/in/', filtering for profiles...
+2025-04-05 22:34:47,272 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 22:34:47,272 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 22:34:56,099 - ERROR - Stopping due to potential infinite loop
+2025-04-05 22:34:56,102 - INFO - Total profiles collected: 24
+2025-04-05 22:56:44,889 - INFO - Loaded credentials - Username: chattree.sam@gmail.com
+2025-04-05 22:56:53,358 - INFO - Entered username
+2025-04-05 22:56:53,489 - INFO - Entered password
+2025-04-05 22:57:04,055 - INFO - Clicked login button
+2025-04-05 22:57:05,524 - INFO - Login successful
+2025-04-05 22:57:27,800 - INFO - Navigated to people search page
+2025-04-05 22:57:48,077 - INFO - Searching for: Data Scientist New Delhi
+2025-04-05 22:57:53,250 - INFO - Detected 28 potential profile links
+2025-04-05 22:57:53,328 - INFO - Next button available: True
+2025-04-05 22:58:03,173 - INFO - Navigated to people search page
+2025-04-05 22:58:20,800 - INFO - Searching for: Data Scientist Bhubaneswar
+2025-04-05 22:58:25,926 - INFO - Detected 38 potential profile links
+2025-04-05 22:58:25,990 - INFO - Next button available: True
+2025-04-05 22:58:37,702 - INFO - Navigated to people search page
+2025-04-05 22:58:53,268 - INFO - Searching for: software engineer New Delhi
+2025-04-05 22:58:58,381 - INFO - Detected 32 potential profile links
+2025-04-05 22:58:58,442 - INFO - Next button available: True
+2025-04-05 22:59:10,676 - INFO - Navigated to people search page
+2025-04-05 22:59:30,866 - INFO - Searching for: software engineer Bhubaneswar
+2025-04-05 22:59:35,973 - INFO - Detected 38 potential profile links
+2025-04-05 22:59:36,041 - INFO - Next button available: True
+2025-04-05 22:59:37,066 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 22:59:37,069 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 22:59:37,090 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 22:59:37,269 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 22:59:38,246 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Data%20Scientist%20New%20Delhi&origin=GLOBAL_SEARCH_HEADER&sid=dlA_24
+2025-04-05 22:59:38,246 - INFO - LLM decided: 2 - It's a good idea to scrape the current page before moving to the next page to ensure we have collected all available profiles.
+2025-04-05 22:59:43,308 - INFO - Found 38 links with '/in/', filtering for profiles...
+2025-04-05 22:59:45,254 - INFO - Scraped profile: Srijita Maiti
+View Srijita Maiti’s profile - https://www.linkedin.com/in/srijita-maiti-a75783253
+2025-04-05 22:59:45,318 - INFO - Scraped profile: Gargee Bhowmick - https://www.linkedin.com/in/ACoAACUI4CIBy_03aVLTaAABcFWeZmnDMoeaGXE
+2025-04-05 22:59:45,402 - INFO - Scraped profile: Sahil Roy Chowdhury - https://www.linkedin.com/in/ACoAACfPjRIBuktxuij3MRoWzki0zDZCqOTK-iw
+2025-04-05 22:59:45,644 - INFO - Scraped 3 valid profile cards on this page
+2025-04-05 22:59:58,459 - INFO - Detected 38 potential profile links
+2025-04-05 22:59:58,539 - INFO - Next button available: True
+2025-04-05 22:59:58,547 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20New%20Delhi&origin=GLOBAL_SEARCH_HEADER&sid=K(D_24
+2025-04-05 22:59:58,547 - INFO - LLM decided: 2 - It's better to scrape the current page before moving to the next page to ensure we have collected all available profiles.
+2025-04-05 23:00:03,627 - INFO - Found 38 links with '/in/', filtering for profiles...
+2025-04-05 23:00:05,784 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 23:00:05,784 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 23:00:18,390 - INFO - Detected 38 potential profile links
+2025-04-05 23:00:18,452 - INFO - Next button available: True
+2025-04-05 23:00:18,461 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Data%20Scientist%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=1Bw_24
+2025-04-05 23:00:18,461 - INFO - LLM decided: 2 - It's better to scrape the current page to collect all available profiles before moving to the next page. This way we ensure we have the most up-to-date information.
+2025-04-05 23:00:23,528 - INFO - Found 38 links with '/in/', filtering for profiles...
+2025-04-05 23:00:25,409 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 23:00:25,409 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 23:00:36,725 - INFO - Detected 38 potential profile links
+2025-04-05 23:00:36,773 - INFO - Next button available: True
+2025-04-05 23:00:36,789 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=vNj_24
+2025-04-05 23:00:36,789 - INFO - LLM decided: 2 - It's a good idea to scrape the current page to collect information from the profiles displayed before considering clicking on the next page.
+2025-04-05 23:00:41,871 - INFO - Found 38 links with '/in/', filtering for profiles...
+2025-04-05 23:00:43,243 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 23:00:43,243 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 23:00:55,439 - INFO - Detected 38 potential profile links
+2025-04-05 23:00:55,504 - INFO - Next button available: True
+2025-04-05 23:00:55,529 - INFO - Retrying request to /chat/completions in 0.409461 seconds
+2025-04-05 23:00:55,529 - INFO - Retrying request to /chat/completions in 0.443272 seconds
+2025-04-05 23:00:56,341 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 23:00:56,341 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 23:00:56,716 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 23:00:56,770 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 23:00:57,522 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=vNj_27
+2025-04-05 23:00:57,522 - INFO - LLM decided: 1 - Since we have not reached the end of the search results and the next button is available, we should click on the next page to collect more profiles.
+2025-04-05 23:01:08,320 - INFO - Detected 35 potential profile links
+2025-04-05 23:01:08,363 - INFO - Next button available: True
+2025-04-05 23:01:08,367 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=vNj_27
+2025-04-05 23:01:08,367 - INFO - LLM decided: 1 - Since we have not reached the end of the search results and there are more profiles to collect, clicking on the next page will allow us to gather more data.
+2025-04-05 23:01:21,317 - INFO - Detected 35 potential profile links
+2025-04-05 23:01:21,388 - INFO - Next button available: True
+2025-04-05 23:01:21,414 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=vNj_27
+2025-04-05 23:01:21,416 - INFO - LLM decided: 1 - Since there are still profile cards left on the current page and the next button is available, clicking on the next page will allow us to collect more profiles efficiently.
+2025-04-05 23:01:36,143 - INFO - Detected 35 potential profile links
+2025-04-05 23:01:36,203 - INFO - Next button available: True
+2025-04-05 23:01:36,231 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=vNj_27
+2025-04-05 23:01:36,231 - INFO - LLM decided: 2 - It's a good idea to scrape the current page before deciding whether to click on the next page. This way we can maximize the data collected without missing any profiles.
+2025-04-05 23:01:41,328 - INFO - Found 35 links with '/in/', filtering for profiles...
+2025-04-05 23:01:41,476 - INFO - Scraped profile: Piyuli Agrawal
+View Piyuli Agrawal’s profile - https://www.linkedin.com/in/piyuli-agrawal-9257a4183
+2025-04-05 23:01:41,618 - INFO - Scraped profile: Amaan Bhati - https://www.linkedin.com/in/ACoAADmuMZ8Bnu3LC-AJG1EwdB5_P9plcaSDb0E
+2025-04-05 23:01:41,752 - INFO - Scraped profile: Shreshtha Kochgaway
+View Shreshtha Kochgaway’s profile - https://www.linkedin.com/in/shreshtha-kochgaway-088422187
+2025-04-05 23:01:42,002 - INFO - Scraped profile: Sidhant Patnaik
+View Sidhant Patnaik’s profile - https://www.linkedin.com/in/sidhant-patnaik-215794195
+2025-04-05 23:01:42,170 - INFO - Scraped profile: Utkarsh Trivedi - https://www.linkedin.com/in/ACoAADevzwUB6vimYlz2rzv_kgj8xMRCjSnHcSQ
+2025-04-05 23:01:42,323 - INFO - Scraped profile: Sivasis Tripathy
+View Sivasis Tripathy’s profile - https://www.linkedin.com/in/sivasis-tripathy
+2025-04-05 23:01:42,544 - INFO - Scraped profile: Priyambada Onkar
+View Priyambada Onkar’s profile - https://www.linkedin.com/in/priyambada-onkar-b41b2524b
+2025-04-05 23:01:42,689 - INFO - Scraped profile: Kunal Jha
+View Kunal Jha’s profile - https://www.linkedin.com/in/kunal-jha-78759923b
+2025-04-05 23:01:42,936 - INFO - Scraped profile: Ankita Kumari
+View Ankita Kumari’s profile - https://www.linkedin.com/in/ankita-kumari-4347241a1
+2025-04-05 23:01:43,072 - INFO - Scraped profile: Rai Sakshi - https://www.linkedin.com/in/ACoAADu6pfIB1BZ3KTsxjTKosAN9PoO4pac3hPk
+2025-04-05 23:01:43,203 - INFO - Scraped profile: Astha Nayak
+View Astha Nayak’s profile - https://www.linkedin.com/in/astha-nayak-b02a9b279
+2025-04-05 23:01:43,273 - INFO - Scraped profile: Aditi Dewangan - https://www.linkedin.com/in/ACoAAEB2YJ8Bfogef87nKTC2OvXTO6bsjqg0qac
+2025-04-05 23:01:43,420 - INFO - Scraped profile: Arpan Ghosal
+View Arpan Ghosal’s profile - https://www.linkedin.com/in/arpanghosal
+2025-04-05 23:01:43,496 - INFO - Scraped profile: Anurag Ray Chaudhuri - https://www.linkedin.com/in/ACoAADXsutEBsl86pylj-QL5tYtjcgCftP3oKLY
+2025-04-05 23:01:43,565 - INFO - Scraped profile: Krishna Agrawal - https://www.linkedin.com/in/ACoAADYZR-0B4vvmAR-0LYskW8FOqAvRt3HhxWw
+2025-04-05 23:01:43,696 - INFO - Scraped profile: Devansh Mishra
+View Devansh Mishra’s profile - https://www.linkedin.com/in/mdevansh
+2025-04-05 23:01:43,780 - INFO - Scraped 16 valid profile cards on this page
+2025-04-05 23:01:57,101 - INFO - Detected 35 potential profile links
+2025-04-05 23:01:57,169 - INFO - Next button available: True
+2025-04-05 23:01:57,189 - INFO - Retrying request to /chat/completions in 0.435262 seconds
+2025-04-05 23:01:57,985 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 23:01:58,042 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 23:01:58,535 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 23:01:58,549 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 23:01:59,303 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=4&sid=rJ7_43
+2025-04-05 23:01:59,308 - INFO - LLM decided: 2 - Since we have not reached the end of the search results and there are more profiles to collect on the current page, it is efficient to scrape the current page before considering moving to the next page.
+2025-04-05 23:02:04,412 - INFO - Found 35 links with '/in/', filtering for profiles...
+2025-04-05 23:02:05,828 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 23:02:05,844 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 23:02:13,830 - INFO - Using cached action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=4&sid=rJ7_43: {'action': '2', 'reasoning': 'Since we have not reached the end of the search results and there are more profiles to collect on the current page, it is efficient to scrape the current page before considering moving to the next page.'}
+2025-04-05 23:02:13,830 - INFO - LLM decided: 2 - Since we have not reached the end of the search results and there are more profiles to collect on the current page, it is efficient to scrape the current page before considering moving to the next page.
+2025-04-05 23:02:18,920 - INFO - Found 35 links with '/in/', filtering for profiles...
+2025-04-05 23:02:19,963 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 23:02:19,963 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 23:02:25,564 - INFO - Using cached action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=4&sid=rJ7_43: {'action': '2', 'reasoning': 'Since we have not reached the end of the search results and there are more profiles to collect on the current page, it is efficient to scrape the current page before considering moving to the next page.'}
+2025-04-05 23:02:25,564 - INFO - LLM decided: 2 - Since we have not reached the end of the search results and there are more profiles to collect on the current page, it is efficient to scrape the current page before considering moving to the next page.
+2025-04-05 23:02:30,662 - INFO - Found 35 links with '/in/', filtering for profiles...
+2025-04-05 23:02:31,669 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 23:02:31,669 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 23:02:39,794 - INFO - Using cached action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=4&sid=rJ7_43: {'action': '2', 'reasoning': 'Since we have not reached the end of the search results and there are more profiles to collect on the current page, it is efficient to scrape the current page before considering moving to the next page.'}
+2025-04-05 23:02:39,794 - INFO - LLM decided: 2 - Since we have not reached the end of the search results and there are more profiles to collect on the current page, it is efficient to scrape the current page before considering moving to the next page.
+2025-04-05 23:02:44,868 - INFO - Found 35 links with '/in/', filtering for profiles...
+2025-04-05 23:02:45,802 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 23:02:45,802 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 23:02:55,447 - INFO - Using cached action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=4&sid=rJ7_43: {'action': '2', 'reasoning': 'Since we have not reached the end of the search results and there are more profiles to collect on the current page, it is efficient to scrape the current page before considering moving to the next page.'}
+2025-04-05 23:02:55,447 - INFO - LLM decided: 2 - Since we have not reached the end of the search results and there are more profiles to collect on the current page, it is efficient to scrape the current page before considering moving to the next page.
+2025-04-05 23:03:00,512 - INFO - Found 35 links with '/in/', filtering for profiles...
+2025-04-05 23:03:01,578 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 23:03:01,578 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 23:03:07,640 - ERROR - Stopping due to potential infinite loop
+2025-04-05 23:03:07,647 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=4&sid=rJ7_27
+2025-04-05 23:03:07,647 - INFO - LLM decided: 1 - Clicking the next page will allow us to collect more profiles and gather additional data for our analysis.
+2025-04-05 23:03:20,920 - INFO - Detected 35 potential profile links
+2025-04-05 23:03:20,984 - INFO - Next button available: True
+2025-04-05 23:03:21,016 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=2&sid=vNj_27
+2025-04-05 23:03:21,016 - INFO - LLM decided: 2 - It's a good idea to scrape the current page to collect more profiles before deciding whether to click on the next page. This will help gather more data efficiently.
+2025-04-05 23:03:26,133 - INFO - Found 35 links with '/in/', filtering for profiles...
+2025-04-05 23:03:26,292 - INFO - Scraped profile: Goutam kumar Jena
+View Goutam kumar Jena’s profile - https://www.linkedin.com/in/goutam-kumar-jena-10a56b208
+2025-04-05 23:03:26,356 - INFO - Scraped profile: Sai Manikanta Patro - https://www.linkedin.com/in/ACoAADP4ngkBcW2gNvKvZ_TodjQxeunib-Z6i-E
+2025-04-05 23:03:26,521 - INFO - Scraped profile: SATYA SANGRAM MISHRA
+View SATYA SANGRAM MISHRA’s profile - https://www.linkedin.com/in/satya-sangram
+2025-04-05 23:03:26,650 - INFO - Scraped profile: Riju Ghosh
+View Riju Ghosh’s profile - https://www.linkedin.com/in/riju-ghosh-3a9ba493
+2025-04-05 23:03:26,794 - INFO - Scraped profile: Shruti Bose - https://www.linkedin.com/in/ACoAAD-cLXcBWmNG0WjkUa05BykiGzavYNd4S-Q
+2025-04-05 23:03:26,851 - INFO - Scraped profile: Nandish Navamit - https://www.linkedin.com/in/ACoAAESGHhwBUrzKHIxRCZzMMAWGrTmsQQFvBgk
+2025-04-05 23:03:27,143 - INFO - Scraped profile: Khushi Rai
+View Khushi Rai’s profile - https://www.linkedin.com/in/khushi-rai-43b76a24b
+2025-04-05 23:03:27,316 - INFO - Scraped profile: Parth Yadav - https://www.linkedin.com/in/ACoAADyxLtUBFyNIfydPhel1XE97xNTChQyWn-k
+2025-04-05 23:03:27,444 - INFO - Scraped profile: Samiksha Mishra
+View Samiksha Mishra’s profile - https://www.linkedin.com/in/samiksha-mishra-670080170
+2025-04-05 23:03:27,747 - INFO - Scraped profile: NAINALI NANDA
+View NAINALI NANDA’s profile - https://www.linkedin.com/in/nainali-nanda-724a23249
+2025-04-05 23:03:27,938 - INFO - Scraped profile: Subhashree Suchismita Das
+View Subhashree Suchismita Das’ profile - https://www.linkedin.com/in/ssdas2000
+2025-04-05 23:03:28,145 - INFO - Scraped profile: Akankshya Hota
+View Akankshya Hota’s profile - https://www.linkedin.com/in/akankshya-hota-376b41287
+2025-04-05 23:03:28,209 - INFO - Scraped profile: Rohit Kumar - https://www.linkedin.com/in/ACoAAEPStJMB1AH8MBSTxysls_WlganSaozJWQw
+2025-04-05 23:03:28,353 - INFO - Scraped profile: Pallavi Mahanta
+View Pallavi Mahanta’s profile - https://www.linkedin.com/in/pallavi-mahanta-794616224
+2025-04-05 23:03:28,584 - INFO - Scraped profile: CHAMAN KUMAR AGRAWAL
+View CHAMAN KUMAR AGRAWAL’s profile - https://www.linkedin.com/in/ckagrawal89
+2025-04-05 23:03:28,671 - INFO - Scraped 15 valid profile cards on this page
+2025-04-05 23:03:40,402 - INFO - Detected 35 potential profile links
+2025-04-05 23:03:40,462 - INFO - Next button available: True
+2025-04-05 23:03:40,487 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=3&sid=Xb7_27
+2025-04-05 23:03:40,487 - INFO - LLM decided: 2 - Since we have not reached the end of the search results and there are still profiles left to scrape on the current page, it's best to scrape the current page before deciding whether to click on the next page.
+2025-04-05 23:03:45,567 - INFO - Found 35 links with '/in/', filtering for profiles...
+2025-04-05 23:03:46,485 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 23:03:46,490 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 23:04:00,113 - INFO - Detected 35 potential profile links
+2025-04-05 23:04:00,192 - INFO - Next button available: True
+2025-04-05 23:04:01,049 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 23:04:01,097 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 23:04:01,261 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 23:04:02,144 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=5&sid=fzr_58
+2025-04-05 23:04:02,146 - INFO - LLM decided: 2 - It's a good idea to scrape the current page to collect more profiles before deciding whether to click on the next page.
+2025-04-05 23:04:07,273 - INFO - Found 35 links with '/in/', filtering for profiles...
+2025-04-05 23:04:08,836 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 23:04:08,836 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 23:04:16,822 - INFO - Using cached action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=5&sid=fzr_58: {'action': '2', 'reasoning': "It's a good idea to scrape the current page to collect more profiles before deciding whether to click on the next page."}
+2025-04-05 23:04:16,822 - INFO - LLM decided: 2 - It's a good idea to scrape the current page to collect more profiles before deciding whether to click on the next page.
+2025-04-05 23:04:21,899 - INFO - Found 35 links with '/in/', filtering for profiles...
+2025-04-05 23:04:22,889 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 23:04:22,889 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 23:04:28,721 - INFO - Using cached action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=5&sid=fzr_58: {'action': '2', 'reasoning': "It's a good idea to scrape the current page to collect more profiles before deciding whether to click on the next page."}
+2025-04-05 23:04:28,721 - INFO - LLM decided: 2 - It's a good idea to scrape the current page to collect more profiles before deciding whether to click on the next page.
+2025-04-05 23:04:33,818 - INFO - Found 35 links with '/in/', filtering for profiles...
+2025-04-05 23:04:35,137 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 23:04:35,137 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 23:04:41,317 - INFO - Using cached action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=5&sid=fzr_58: {'action': '2', 'reasoning': "It's a good idea to scrape the current page to collect more profiles before deciding whether to click on the next page."}
+2025-04-05 23:04:41,317 - INFO - LLM decided: 2 - It's a good idea to scrape the current page to collect more profiles before deciding whether to click on the next page.
+2025-04-05 23:04:46,403 - INFO - Found 35 links with '/in/', filtering for profiles...
+2025-04-05 23:04:47,426 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 23:04:47,427 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 23:04:55,335 - ERROR - Stopping due to potential infinite loop
+2025-04-05 23:04:55,343 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=5&sid=fzr_43
+2025-04-05 23:04:55,350 - INFO - LLM decided: 1 - Clicking the next page will allow us to collect more profiles and continue the scraping process.
+2025-04-05 23:05:07,542 - INFO - Detected 31 potential profile links
+2025-04-05 23:05:07,614 - INFO - Next button available: True
+2025-04-05 23:05:07,635 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=5&sid=fzr_58
+2025-04-05 23:05:07,638 - INFO - LLM decided: 1 - Clicking on the next page will allow us to collect more profiles and expand our dataset.
+2025-04-05 23:05:19,085 - INFO - Detected 32 potential profile links
+2025-04-05 23:05:19,166 - INFO - Next button available: True
+2025-04-05 23:05:19,999 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 23:05:19,999 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 23:05:21,234 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=7&sid=%3A%2CB_58
+2025-04-05 23:05:21,236 - INFO - LLM decided: 2 - Since we have not reached the end of the search results yet and there are still profiles to collect on the current page, it's best to scrape the current page to gather more data before considering clicking on the next page.
+2025-04-05 23:05:26,359 - INFO - Found 32 links with '/in/', filtering for profiles...
+2025-04-05 23:05:26,518 - INFO - Scraped profile: Namrata Dalai
+View Namrata Dalai’s profile - https://www.linkedin.com/in/namrata-dalai-686900190
+2025-04-05 23:05:26,657 - INFO - Scraped profile: Ayush Shresth - https://www.linkedin.com/in/ACoAAEJXtp4BKePgpraToIfTFKsbZO38N6EuKBc
+2025-04-05 23:05:26,725 - INFO - Scraped profile: Status is reachable - https://www.linkedin.com/in/aira-jena
+2025-04-05 23:05:26,812 - INFO - Scraped profile: Sounak Dutta - https://www.linkedin.com/in/ACoAADy1WV8Bpl_mmVSt30sHhR_kRUjJBMrJ-hM
+2025-04-05 23:05:26,937 - INFO - Scraped profile: Ayeshkant Lenka
+View Ayeshkant Lenka’s profile - https://www.linkedin.com/in/ayeshkant-lenka-55969320b
+2025-04-05 23:05:27,090 - INFO - Scraped profile: Akshat Anand
+View Akshat Anand’s profile - https://www.linkedin.com/in/akshatanand186
+2025-04-05 23:05:27,364 - INFO - Scraped profile: Aaryan .
+View Aaryan .’s profile - https://www.linkedin.com/in/aaryan126
+2025-04-05 23:05:27,424 - INFO - Scraped profile: Utkarsh Prakhar - https://www.linkedin.com/in/ACoAAChQtb4BEW6GYowh1wTxNDb9vIbYbnYyyKc
+2025-04-05 23:05:27,619 - INFO - Scraped profile: Urja Jain
+View Urja Jain’s profile - https://www.linkedin.com/in/urja-jain-020301
+2025-04-05 23:05:27,698 - INFO - Scraped profile: Provides services - Blogging, Copywriting, Editing, Ghostwriting, Technical Writing, Writing, User Experience Writing - https://www.linkedin.com/in/ACoAADHJV_oBAi_3SXGo0BIp7tRE_LF0xLlqJrM
+2025-04-05 23:05:27,827 - INFO - Scraped profile: Suptatthita Sarkar
+View Suptatthita Sarkar’s profile - https://www.linkedin.com/in/suptatthita-sarkar-bab769327
+2025-04-05 23:05:27,986 - INFO - Scraped profile: Ashish Kumar
+View Ashish Kumar’s profile - https://www.linkedin.com/in/ashishkb92
+2025-04-05 23:05:28,130 - INFO - Scraped profile: Prajukta Dey - https://www.linkedin.com/in/ACoAADtNkDwBnig7-A2hQqQGqeI4qq40344283w
+2025-04-05 23:05:28,257 - INFO - Scraped profile: TANYA KUMARI
+View TANYA KUMARI’s profile - https://www.linkedin.com/in/tanya237
+2025-04-05 23:05:28,504 - INFO - Scraped profile: Banashree Barsha
+View Banashree Barsha’s profile - https://www.linkedin.com/in/banashree-barsha-54a807201
+2025-04-05 23:05:28,504 - INFO - Scraped 15 valid profile cards on this page
+2025-04-05 23:05:40,002 - INFO - Detected 32 potential profile links
+2025-04-05 23:05:40,073 - INFO - Next button available: True
+2025-04-05 23:05:40,093 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=6&sid=58Y_58
+2025-04-05 23:05:40,093 - INFO - LLM decided: 2 - Since we have collected profiles from the current page, it's a good idea to scrape the current page before deciding whether to move to the next page. This will ensure we have the most up-to-date information before proceeding.
+2025-04-05 23:05:45,180 - INFO - Found 32 links with '/in/', filtering for profiles...
+2025-04-05 23:05:46,279 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 23:05:46,279 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 23:05:56,774 - INFO - Detected 32 potential profile links
+2025-04-05 23:05:56,901 - INFO - Next button available: True
+2025-04-05 23:05:56,919 - INFO - Retrying request to /chat/completions in 0.397885 seconds
+2025-04-05 23:05:57,638 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 23:05:57,794 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-05 23:05:58,867 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=7&sid=%3A%2CB_73
+2025-04-05 23:05:58,868 - INFO - LLM decided: 2 - It's a good idea to scrape the current page to collect information from the profiles available before deciding whether to click on the next page.
+2025-04-05 23:06:03,957 - INFO - Found 32 links with '/in/', filtering for profiles...
+2025-04-05 23:06:04,922 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 23:06:04,922 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 23:06:15,018 - INFO - Using cached action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=7&sid=%3A%2CB_73: {'action': '2', 'reasoning': "It's a good idea to scrape the current page to collect information from the profiles available before deciding whether to click on the next page."}
+2025-04-05 23:06:15,018 - INFO - LLM decided: 2 - It's a good idea to scrape the current page to collect information from the profiles available before deciding whether to click on the next page.
+2025-04-05 23:06:20,103 - INFO - Found 32 links with '/in/', filtering for profiles...
+2025-04-05 23:06:21,004 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 23:06:21,011 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 23:06:28,974 - INFO - Using cached action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=7&sid=%3A%2CB_73: {'action': '2', 'reasoning': "It's a good idea to scrape the current page to collect information from the profiles available before deciding whether to click on the next page."}
+2025-04-05 23:06:28,974 - INFO - LLM decided: 2 - It's a good idea to scrape the current page to collect information from the profiles available before deciding whether to click on the next page.
+2025-04-05 23:06:34,114 - INFO - Found 32 links with '/in/', filtering for profiles...
+2025-04-05 23:06:35,216 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 23:06:35,216 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 23:06:42,636 - INFO - Using cached action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=7&sid=%3A%2CB_73: {'action': '2', 'reasoning': "It's a good idea to scrape the current page to collect information from the profiles available before deciding whether to click on the next page."}
+2025-04-05 23:06:42,636 - INFO - LLM decided: 2 - It's a good idea to scrape the current page to collect information from the profiles available before deciding whether to click on the next page.
+2025-04-05 23:06:47,735 - INFO - Found 32 links with '/in/', filtering for profiles...
+2025-04-05 23:06:48,633 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 23:06:48,635 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 23:06:55,616 - ERROR - Stopping due to potential infinite loop
+2025-04-05 23:06:55,620 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=software%20engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=7&sid=%3A%2CB_73
+2025-04-05 23:06:55,620 - INFO - LLM decided: 2 - It's better to scrape the current page to collect more profiles before considering clicking on the next page.
+2025-04-05 23:07:00,707 - INFO - Found 32 links with '/in/', filtering for profiles...
+2025-04-05 23:07:01,733 - INFO - Scraped 0 valid profile cards on this page
+2025-04-05 23:07:01,733 - WARNING - No profiles scraped. Saving screenshot for debugging.
+2025-04-05 23:07:08,742 - ERROR - Stopping due to potential infinite loop
+2025-04-05 23:07:08,779 - INFO - Total profiles collected: 73
+2025-04-07 14:40:02,787 - INFO - Loaded credentials - Username: chattree.sam@gmail.com
+2025-04-07 14:43:18,851 - INFO - Loaded credentials - Username: chattree.sam@gmail.com
+2025-04-07 14:43:19,243 - INFO - ====== WebDriver manager ======
+2025-04-07 14:43:21,711 - INFO - There is no [win32] chromedriver "latest" for browser google-chrome "135.0.7049" in cache
+2025-04-07 14:43:21,711 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-07 14:46:13,091 - INFO - Loaded credentials - Username: chattree.sam@gmail.com
+2025-04-07 14:46:13,372 - INFO - ====== WebDriver manager ======
+2025-04-07 14:46:16,102 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-07 14:46:16,291 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-07 14:46:16,422 - INFO - There is no [win64] chromedriver "135.0.7049.42" for browser google-chrome "135.0.7049" in cache
+2025-04-07 14:46:16,429 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-07 14:46:16,795 - INFO - WebDriver version 135.0.7049.42 selected
+2025-04-07 14:46:16,795 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.42/win32/chromedriver-win32.zip
+2025-04-07 14:46:16,795 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.42/win32/chromedriver-win32.zip
+2025-04-07 14:46:17,031 - INFO - Driver downloading response is 200
+2025-04-07 14:46:17,913 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-07 14:46:19,302 - INFO - Driver has been saved in cache [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.42]
+2025-04-07 14:46:24,023 - ERROR - Login failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00965413+60691]
+	GetHandleVerifier [0x00965454+60756]
+	(No symbol) [0x00790693]
+	(No symbol) [0x0076FBCE]
+	(No symbol) [0x00803C4E]
+	(No symbol) [0x0081DFF9]
+	(No symbol) [0x007FCE56]
+	(No symbol) [0x007CC5F3]
+	(No symbol) [0x007CD444]
+	GetHandleVerifier [0x00BABBC3+2446531]
+	GetHandleVerifier [0x00BA7198+2427544]
+	GetHandleVerifier [0x00BC2D5E+2541150]
+	GetHandleVerifier [0x0097C3C5+154821]
+	GetHandleVerifier [0x00982BED+181485]
+	GetHandleVerifier [0x0096CC48+91464]
+	GetHandleVerifier [0x0096CDF0+91888]
+	GetHandleVerifier [0x00957980+4736]
+	BaseThreadInitThunk [0x75B95D49+25]
+	RtlInitializeExceptionChain [0x7739CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CE91+561]
+
+2025-04-07 14:46:42,372 - INFO - Loaded credentials - Username: chattree.sam@gmail.com
+2025-04-07 14:46:48,405 - INFO - Entered username
+2025-04-07 14:46:48,550 - INFO - Entered password
+2025-04-07 14:46:54,017 - INFO - Clicked login button
+2025-04-07 14:46:54,186 - INFO - Login successful
+2025-04-07 14:47:12,622 - INFO - Navigated to people search page
+2025-04-07 14:47:26,039 - INFO - Searching for: Data Scientist New Delhi
+2025-04-07 14:47:31,161 - INFO - Detected 29 potential profile links
+2025-04-07 14:47:31,202 - INFO - Next button available: True
+2025-04-07 14:47:42,597 - INFO - Navigated to people search page
+2025-04-07 14:47:57,874 - INFO - Searching for: Data Scientist Bhubaneswar
+2025-04-07 14:48:02,961 - INFO - Detected 39 potential profile links
+2025-04-07 14:48:03,002 - INFO - Next button available: True
+2025-04-07 14:48:14,050 - INFO - Navigated to people search page
+2025-04-07 14:48:14,216 - ERROR - Search input failed: Message: element not interactable
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D5811F55+78133]
+	GetHandleVerifier [0x00007FF7D5811FB0+78224]
+	(No symbol) [0x00007FF7D55D8FEC]
+	(No symbol) [0x00007FF7D56245F5]
+	(No symbol) [0x00007FF7D565715A]
+	(No symbol) [0x00007FF7D5621A16]
+	(No symbol) [0x00007FF7D5657370]
+	(No symbol) [0x00007FF7D567F21F]
+	(No symbol) [0x00007FF7D5656F33]
+	(No symbol) [0x00007FF7D5620358]
+	(No symbol) [0x00007FF7D56210C3]
+	GetHandleVerifier [0x00007FF7D5ADBA8D+3001453]
+	GetHandleVerifier [0x00007FF7D5AD5E72+2977874]
+	GetHandleVerifier [0x00007FF7D5AF497D+3103581]
+	GetHandleVerifier [0x00007FF7D582C7EA+186826]
+	GetHandleVerifier [0x00007FF7D58343FF+218591]
+	GetHandleVerifier [0x00007FF7D5819D94+110452]
+	GetHandleVerifier [0x00007FF7D5819F42+110882]
+	GetHandleVerifier [0x00007FF7D5800379+5465]
+	BaseThreadInitThunk [0x00007FF8D4FEE8D7+23]
+	RtlUserThreadStart [0x00007FF8D69314FC+44]
+
+2025-04-07 14:48:23,517 - INFO - Navigated to people search page
+2025-04-07 14:48:23,650 - ERROR - Search input failed: Message: element not interactable
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D5811F55+78133]
+	GetHandleVerifier [0x00007FF7D5811FB0+78224]
+	(No symbol) [0x00007FF7D55D8FEC]
+	(No symbol) [0x00007FF7D56245F5]
+	(No symbol) [0x00007FF7D565715A]
+	(No symbol) [0x00007FF7D5621A16]
+	(No symbol) [0x00007FF7D5657370]
+	(No symbol) [0x00007FF7D567F21F]
+	(No symbol) [0x00007FF7D5656F33]
+	(No symbol) [0x00007FF7D5620358]
+	(No symbol) [0x00007FF7D56210C3]
+	GetHandleVerifier [0x00007FF7D5ADBA8D+3001453]
+	GetHandleVerifier [0x00007FF7D5AD5E72+2977874]
+	GetHandleVerifier [0x00007FF7D5AF497D+3103581]
+	GetHandleVerifier [0x00007FF7D582C7EA+186826]
+	GetHandleVerifier [0x00007FF7D58343FF+218591]
+	GetHandleVerifier [0x00007FF7D5819D94+110452]
+	GetHandleVerifier [0x00007FF7D5819F42+110882]
+	GetHandleVerifier [0x00007FF7D5800379+5465]
+	BaseThreadInitThunk [0x00007FF8D4FEE8D7+23]
+	RtlUserThreadStart [0x00007FF8D69314FC+44]
+
+2025-04-07 14:48:35,037 - INFO - Loaded credentials - Username: chattree.sam@gmail.com
+2025-04-07 14:48:39,373 - INFO - Entered username
+2025-04-07 14:48:39,529 - INFO - Entered password
+2025-04-07 14:48:43,056 - INFO - Clicked login button
+2025-04-07 14:48:43,121 - INFO - Login successful
+2025-04-07 14:49:02,629 - INFO - Navigated to people search page
+2025-04-07 14:49:02,771 - ERROR - Search input failed: Message: element not interactable
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D5811F55+78133]
+	GetHandleVerifier [0x00007FF7D5811FB0+78224]
+	(No symbol) [0x00007FF7D55D8FEC]
+	(No symbol) [0x00007FF7D56245F5]
+	(No symbol) [0x00007FF7D565715A]
+	(No symbol) [0x00007FF7D5621A16]
+	(No symbol) [0x00007FF7D5657370]
+	(No symbol) [0x00007FF7D567F21F]
+	(No symbol) [0x00007FF7D5656F33]
+	(No symbol) [0x00007FF7D5620358]
+	(No symbol) [0x00007FF7D56210C3]
+	GetHandleVerifier [0x00007FF7D5ADBA8D+3001453]
+	GetHandleVerifier [0x00007FF7D5AD5E72+2977874]
+	GetHandleVerifier [0x00007FF7D5AF497D+3103581]
+	GetHandleVerifier [0x00007FF7D582C7EA+186826]
+	GetHandleVerifier [0x00007FF7D58343FF+218591]
+	GetHandleVerifier [0x00007FF7D5819D94+110452]
+	GetHandleVerifier [0x00007FF7D5819F42+110882]
+	GetHandleVerifier [0x00007FF7D5800379+5465]
+	BaseThreadInitThunk [0x00007FF8D4FEE8D7+23]
+	RtlUserThreadStart [0x00007FF8D69314FC+44]
+
+2025-04-07 14:49:09,933 - INFO - Navigated to people search page
+2025-04-07 14:49:10,021 - ERROR - Search input failed: Message: element not interactable
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D5811F55+78133]
+	GetHandleVerifier [0x00007FF7D5811FB0+78224]
+	(No symbol) [0x00007FF7D55D8FEC]
+	(No symbol) [0x00007FF7D56245F5]
+	(No symbol) [0x00007FF7D565715A]
+	(No symbol) [0x00007FF7D5621A16]
+	(No symbol) [0x00007FF7D5657370]
+	(No symbol) [0x00007FF7D567F21F]
+	(No symbol) [0x00007FF7D5656F33]
+	(No symbol) [0x00007FF7D5620358]
+	(No symbol) [0x00007FF7D56210C3]
+	GetHandleVerifier [0x00007FF7D5ADBA8D+3001453]
+	GetHandleVerifier [0x00007FF7D5AD5E72+2977874]
+	GetHandleVerifier [0x00007FF7D5AF497D+3103581]
+	GetHandleVerifier [0x00007FF7D582C7EA+186826]
+	GetHandleVerifier [0x00007FF7D58343FF+218591]
+	GetHandleVerifier [0x00007FF7D5819D94+110452]
+	GetHandleVerifier [0x00007FF7D5819F42+110882]
+	GetHandleVerifier [0x00007FF7D5800379+5465]
+	BaseThreadInitThunk [0x00007FF8D4FEE8D7+23]
+	RtlUserThreadStart [0x00007FF8D69314FC+44]
+
+2025-04-07 14:49:19,128 - INFO - Navigated to people search page
+2025-04-07 14:49:19,296 - ERROR - Search input failed: Message: element not interactable
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D5811F55+78133]
+	GetHandleVerifier [0x00007FF7D5811FB0+78224]
+	(No symbol) [0x00007FF7D55D8FEC]
+	(No symbol) [0x00007FF7D56245F5]
+	(No symbol) [0x00007FF7D565715A]
+	(No symbol) [0x00007FF7D5621A16]
+	(No symbol) [0x00007FF7D5657370]
+	(No symbol) [0x00007FF7D567F21F]
+	(No symbol) [0x00007FF7D5656F33]
+	(No symbol) [0x00007FF7D5620358]
+	(No symbol) [0x00007FF7D56210C3]
+	GetHandleVerifier [0x00007FF7D5ADBA8D+3001453]
+	GetHandleVerifier [0x00007FF7D5AD5E72+2977874]
+	GetHandleVerifier [0x00007FF7D5AF497D+3103581]
+	GetHandleVerifier [0x00007FF7D582C7EA+186826]
+	GetHandleVerifier [0x00007FF7D58343FF+218591]
+	GetHandleVerifier [0x00007FF7D5819D94+110452]
+	GetHandleVerifier [0x00007FF7D5819F42+110882]
+	GetHandleVerifier [0x00007FF7D5800379+5465]
+	BaseThreadInitThunk [0x00007FF8D4FEE8D7+23]
+	RtlUserThreadStart [0x00007FF8D69314FC+44]
+
+2025-04-07 14:49:29,627 - INFO - Navigated to people search page
+2025-04-07 14:49:29,726 - ERROR - Search input failed: Message: element not interactable
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D5811F55+78133]
+	GetHandleVerifier [0x00007FF7D5811FB0+78224]
+	(No symbol) [0x00007FF7D55D8FEC]
+	(No symbol) [0x00007FF7D56245F5]
+	(No symbol) [0x00007FF7D565715A]
+	(No symbol) [0x00007FF7D5621A16]
+	(No symbol) [0x00007FF7D5657370]
+	(No symbol) [0x00007FF7D567F21F]
+	(No symbol) [0x00007FF7D5656F33]
+	(No symbol) [0x00007FF7D5620358]
+	(No symbol) [0x00007FF7D56210C3]
+	GetHandleVerifier [0x00007FF7D5ADBA8D+3001453]
+	GetHandleVerifier [0x00007FF7D5AD5E72+2977874]
+	GetHandleVerifier [0x00007FF7D5AF497D+3103581]
+	GetHandleVerifier [0x00007FF7D582C7EA+186826]
+	GetHandleVerifier [0x00007FF7D58343FF+218591]
+	GetHandleVerifier [0x00007FF7D5819D94+110452]
+	GetHandleVerifier [0x00007FF7D5819F42+110882]
+	GetHandleVerifier [0x00007FF7D5800379+5465]
+	BaseThreadInitThunk [0x00007FF8D4FEE8D7+23]
+	RtlUserThreadStart [0x00007FF8D69314FC+44]
+
+2025-04-07 14:52:49,506 - INFO - Loaded credentials - Username: chattree.sam@gmail.com
+2025-04-07 14:52:49,715 - INFO - ====== WebDriver manager ======
+2025-04-07 14:52:52,332 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-07 14:52:52,542 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-07 14:52:52,681 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-07 14:52:56,887 - INFO - Entered username
+2025-04-07 14:52:57,168 - INFO - Entered password
+2025-04-07 14:53:00,820 - INFO - Clicked login button
+2025-04-07 14:53:00,888 - INFO - Login successful
+2025-04-07 14:53:18,905 - INFO - Navigated to people search page
+2025-04-07 14:54:08,533 - INFO - Search bar located and interactable
+2025-04-07 14:54:26,996 - INFO - Searching for: Data Scientist New Delhi
+2025-04-07 14:54:32,102 - INFO - Detected 29 potential profile links
+2025-04-07 14:54:32,167 - INFO - Next button available: True
+2025-04-07 14:54:42,139 - INFO - Navigated to people search page
+2025-04-07 14:54:42,211 - INFO - Search bar located and interactable
+2025-04-07 14:54:59,445 - INFO - Searching for: Data Scientist Bhubaneswar
+2025-04-07 14:55:04,521 - INFO - Detected 39 potential profile links
+2025-04-07 14:55:04,561 - INFO - Next button available: True
+2025-04-07 14:55:12,084 - INFO - Navigated to people search page
+2025-04-07 14:55:12,172 - INFO - Search bar located and interactable
+2025-04-07 14:55:28,168 - INFO - Searching for: Software Engineer New Delhi
+2025-04-07 14:55:33,256 - INFO - Detected 31 potential profile links
+2025-04-07 14:55:33,324 - INFO - Next button available: True
+2025-04-07 14:55:40,161 - INFO - Navigated to people search page
+2025-04-07 14:55:40,221 - INFO - Search bar located and interactable
+2025-04-07 14:55:56,478 - INFO - Searching for: Software Engineer Bhubaneswar
+2025-04-07 14:56:01,536 - INFO - Detected 37 potential profile links
+2025-04-07 14:56:01,568 - INFO - Next button available: True
+2025-04-07 14:56:02,351 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 14:56:02,370 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 14:56:02,394 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 14:56:02,705 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 14:56:03,510 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Data%20Scientist%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=Wal_73
+2025-04-07 14:56:03,511 - INFO - LLM decided: 2 - It's a good idea to scrape the current page to collect more profiles before deciding whether to click on the next page.
+2025-04-07 14:56:08,596 - INFO - Found 37 links with '/in/', filtering...
+2025-04-07 14:56:09,725 - INFO - Scraped: Rishi Agarwal
+View Rishi Agarwal’s profile - https://www.linkedin.com/in/rishi-agarwal-1b256020a
+2025-04-07 14:56:09,796 - INFO - Scraped 1 valid profiles
+2025-04-07 14:56:19,951 - INFO - Detected 37 potential profile links
+2025-04-07 14:56:19,992 - INFO - Next button available: True
+2025-04-07 14:56:20,012 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20New%20Delhi&origin=GLOBAL_SEARCH_HEADER&sid=_ip_73
+2025-04-07 14:56:20,012 - INFO - LLM decided: 2 - It's a good idea to scrape the current page to collect more profiles before deciding whether to click on the next page.
+2025-04-07 14:56:25,068 - INFO - Found 37 links with '/in/', filtering...
+2025-04-07 14:56:26,222 - INFO - Scraped 0 valid profiles
+2025-04-07 14:56:26,222 - WARNING - No profiles scraped. Screenshot saved.
+2025-04-07 14:56:36,533 - INFO - Detected 37 potential profile links
+2025-04-07 14:56:36,575 - INFO - Next button available: True
+2025-04-07 14:56:36,584 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=now_73
+2025-04-07 14:56:36,584 - INFO - LLM decided: 2 - It's best to scrape the current page to collect the profiles before moving on to the next page.
+2025-04-07 14:56:41,644 - INFO - Found 37 links with '/in/', filtering...
+2025-04-07 14:56:42,482 - INFO - Scraped 0 valid profiles
+2025-04-07 14:56:42,482 - WARNING - No profiles scraped. Screenshot saved.
+2025-04-07 14:56:55,437 - INFO - Detected 37 potential profile links
+2025-04-07 14:56:55,472 - INFO - Next button available: True
+2025-04-07 14:56:55,480 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Data%20Scientist%20New%20Delhi&origin=GLOBAL_SEARCH_HEADER&sid=9PG_73
+2025-04-07 14:56:55,480 - INFO - LLM decided: 2 - It's better to scrape the current page to collect more profiles before deciding whether to click on the next page.
+2025-04-07 14:57:00,532 - INFO - Found 37 links with '/in/', filtering...
+2025-04-07 14:57:01,652 - INFO - Scraped 0 valid profiles
+2025-04-07 14:57:01,652 - WARNING - No profiles scraped. Screenshot saved.
+2025-04-07 14:57:15,582 - INFO - Detected 37 potential profile links
+2025-04-07 14:57:15,607 - INFO - Next button available: True
+2025-04-07 14:57:15,615 - INFO - Retrying request to /chat/completions in 0.435126 seconds
+2025-04-07 14:57:16,130 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 14:57:16,332 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 14:57:16,374 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 14:57:16,376 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 14:57:17,274 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=now_74
+2025-04-07 14:57:17,274 - INFO - LLM decided: 2 - It's better to scrape the current page before moving on to the next page to ensure we have collected all available profiles.
+2025-04-07 14:57:22,348 - INFO - Found 37 links with '/in/', filtering...
+2025-04-07 14:57:23,120 - INFO - Scraped 0 valid profiles
+2025-04-07 14:57:23,120 - WARNING - No profiles scraped. Screenshot saved.
+2025-04-07 14:57:28,742 - INFO - Using cached action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=now_74: {'action': '2', 'reasoning': "It's better to scrape the current page before moving on to the next page to ensure we have collected all available profiles."}
+2025-04-07 14:57:28,751 - INFO - LLM decided: 2 - It's better to scrape the current page before moving on to the next page to ensure we have collected all available profiles.
+2025-04-07 14:57:33,820 - INFO - Found 37 links with '/in/', filtering...
+2025-04-07 14:57:34,781 - INFO - Scraped 0 valid profiles
+2025-04-07 14:57:34,781 - WARNING - No profiles scraped. Screenshot saved.
+2025-04-07 14:57:40,391 - ERROR - Stopping due to potential infinite loop
+2025-04-07 14:57:40,402 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=now_74
+2025-04-07 14:57:40,403 - INFO - LLM decided: 1 - Since the next button is available and there are more profiles to collect, clicking on the next page will allow us to gather additional profiles for the analysis.
+2025-04-07 14:57:52,792 - INFO - Detected 36 potential profile links
+2025-04-07 14:57:52,852 - INFO - Next button available: True
+2025-04-07 14:57:52,862 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=now_74
+2025-04-07 14:57:52,862 - INFO - LLM decided: 1 - Since we have collected profiles from the current page and the next button is available, clicking on the next page will allow us to gather more profiles for our dataset.
+2025-04-07 14:58:06,392 - INFO - Detected 33 potential profile links
+2025-04-07 14:58:06,422 - INFO - Next button available: True
+2025-04-07 14:58:06,429 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&sid=now_74
+2025-04-07 14:58:06,429 - INFO - LLM decided: 2 - It's better to scrape the current page before clicking on the next page to ensure we have all available profiles before moving forward.
+2025-04-07 14:58:11,482 - INFO - Found 33 links with '/in/', filtering...
+2025-04-07 14:58:11,652 - INFO - Scraped: TAPOPADMA TRIPATHY
+View TAPOPADMA TRIPATHY’s profile - https://www.linkedin.com/in/tapopadmatripathy
+2025-04-07 14:58:11,752 - INFO - Scraped: Devam Ghose
+View Devam Ghose’s profile - https://www.linkedin.com/in/devam-ghose-952482131
+2025-04-07 14:58:11,861 - INFO - Scraped: Abhedya Shukla
+View Abhedya Shukla’s profile - https://www.linkedin.com/in/abhedya-shukla-29b290190
+2025-04-07 14:58:11,894 - INFO - Scraped: Vatsal Vinamra - https://www.linkedin.com/in/ACoAADE6NQsBhDiIby66QH_lihH207VoJmSe_0k
+2025-04-07 14:58:12,065 - INFO - Scraped: Kashish Kaur
+View Kashish Kaur’s profile - https://www.linkedin.com/in/kashish-kaur-39aa081b7
+2025-04-07 14:58:12,151 - INFO - Scraped: Nitish Chandra Thakur
+View Nitish Chandra Thakur’s profile - https://www.linkedin.com/in/nitish-chandra-thakur
+2025-04-07 14:58:12,222 - INFO - Scraped: Shubhashree Priyadarshini
+View Shubhashree Priyadarshini’s profile - https://www.linkedin.com/in/shubhashree-priyadarshini
+2025-04-07 14:58:12,245 - INFO - Scraped: Barsha Baibhabi - https://www.linkedin.com/in/ACoAAEjFZx8B_ZJ7l2Ah-VZtNE93-oyOzaRokj4
+2025-04-07 14:58:12,378 - INFO - Scraped: Aditya T.
+View Aditya T.’s profile - https://www.linkedin.com/in/adityatiwari8
+2025-04-07 14:58:12,421 - INFO - Scraped 9 valid profiles
+2025-04-07 14:58:22,841 - INFO - Detected 33 potential profile links
+2025-04-07 14:58:22,875 - INFO - Next button available: True
+2025-04-07 14:58:23,534 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 14:58:23,598 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 14:58:23,695 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 14:58:24,703 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=2&sid=now_74
+2025-04-07 14:58:24,703 - INFO - LLM decided: 2 - It's better to scrape the current page before deciding whether to click next or stop scraping. This way we ensure we have the most up-to-date information before making a decision.
+2025-04-07 14:58:29,762 - INFO - Found 33 links with '/in/', filtering...
+2025-04-07 14:58:30,498 - INFO - Scraped 0 valid profiles
+2025-04-07 14:58:30,498 - WARNING - No profiles scraped. Screenshot saved.
+2025-04-07 14:58:41,427 - INFO - Detected 33 potential profile links
+2025-04-07 14:58:41,475 - INFO - Next button available: True
+2025-04-07 14:58:41,492 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=3&sid=Zbv_74
+2025-04-07 14:58:41,492 - INFO - LLM decided: 2 - It's a good idea to scrape the current page to collect more profiles before deciding whether to click on the next page.
+2025-04-07 14:58:46,552 - INFO - Found 33 links with '/in/', filtering...
+2025-04-07 14:58:47,020 - INFO - Scraped 0 valid profiles
+2025-04-07 14:58:47,021 - WARNING - No profiles scraped. Screenshot saved.
+2025-04-07 14:59:01,714 - INFO - Detected 33 potential profile links
+2025-04-07 14:59:01,741 - INFO - Next button available: True
+2025-04-07 14:59:01,751 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=3&sid=Zbv_83
+2025-04-07 14:59:01,751 - INFO - LLM decided: 2 - Since we have already collected 83 profiles and there are 33 profile cards on the current page, it's a good idea to scrape the current page before deciding whether to click on the next page. This will ensure we have the most up-to-date information before proceeding further.
+2025-04-07 14:59:06,812 - INFO - Found 33 links with '/in/', filtering...
+2025-04-07 14:59:07,465 - INFO - Scraped 0 valid profiles
+2025-04-07 14:59:07,470 - WARNING - No profiles scraped. Screenshot saved.
+2025-04-07 14:59:13,643 - INFO - Using cached action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=3&sid=Zbv_83: {'action': '2', 'reasoning': "Since we have already collected 83 profiles and there are 33 profile cards on the current page, it's a good idea to scrape the current page before deciding whether to click on the next page. This will ensure we have the most up-to-date information before proceeding further."}
+2025-04-07 14:59:13,643 - INFO - LLM decided: 2 - Since we have already collected 83 profiles and there are 33 profile cards on the current page, it's a good idea to scrape the current page before deciding whether to click on the next page. This will ensure we have the most up-to-date information before proceeding further.
+2025-04-07 14:59:18,710 - INFO - Found 33 links with '/in/', filtering...
+2025-04-07 14:59:19,293 - INFO - Scraped 0 valid profiles
+2025-04-07 14:59:19,293 - WARNING - No profiles scraped. Screenshot saved.
+2025-04-07 14:59:26,407 - INFO - Using cached action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=3&sid=Zbv_83: {'action': '2', 'reasoning': "Since we have already collected 83 profiles and there are 33 profile cards on the current page, it's a good idea to scrape the current page before deciding whether to click on the next page. This will ensure we have the most up-to-date information before proceeding further."}
+2025-04-07 14:59:26,407 - INFO - LLM decided: 2 - Since we have already collected 83 profiles and there are 33 profile cards on the current page, it's a good idea to scrape the current page before deciding whether to click on the next page. This will ensure we have the most up-to-date information before proceeding further.
+2025-04-07 14:59:31,461 - INFO - Found 33 links with '/in/', filtering...
+2025-04-07 14:59:32,072 - INFO - Scraped 0 valid profiles
+2025-04-07 14:59:32,072 - WARNING - No profiles scraped. Screenshot saved.
+2025-04-07 14:59:38,490 - ERROR - Stopping due to potential infinite loop
+2025-04-07 14:59:38,493 - INFO - Retrying request to /chat/completions in 0.392049 seconds
+2025-04-07 14:59:39,591 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 14:59:39,608 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 14:59:40,754 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=3&sid=Zbv_83
+2025-04-07 14:59:40,754 - INFO - LLM decided: 2 - It's better to scrape the current page to collect more profiles before moving on to the next page.
+2025-04-07 14:59:45,829 - INFO - Found 33 links with '/in/', filtering...
+2025-04-07 14:59:46,511 - INFO - Scraped 0 valid profiles
+2025-04-07 14:59:46,511 - WARNING - No profiles scraped. Screenshot saved.
+2025-04-07 14:59:52,532 - ERROR - Stopping due to potential infinite loop
+2025-04-07 14:59:52,535 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=3&sid=Zbv_83
+2025-04-07 14:59:52,535 - INFO - LLM decided: 1 - Since the next button is available and there are more profiles to collect on the next page, clicking on the next page will help gather additional profiles for the search.
+2025-04-07 15:00:05,114 - INFO - Detected 37 potential profile links
+2025-04-07 15:00:05,153 - INFO - Next button available: True
+2025-04-07 15:00:05,906 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:00:07,013 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=4&sid=~3z_83
+2025-04-07 15:00:07,016 - INFO - LLM decided: 2 - It's better to scrape the current page before moving to the next page to ensure we collect all available profiles.
+2025-04-07 15:00:12,091 - INFO - Found 37 links with '/in/', filtering...
+2025-04-07 15:00:12,306 - INFO - Scraped: mamuni biswal
+View mamuni biswal’s profile - https://www.linkedin.com/in/mamuni-biswal-89a865270
+2025-04-07 15:00:12,715 - INFO - Scraped: Shivangi Asthana
+View Shivangi Asthana’s profile - https://www.linkedin.com/in/shivangi-asthana-72515a159
+2025-04-07 15:00:13,082 - INFO - Scraped 2 valid profiles
+2025-04-07 15:00:26,842 - INFO - Detected 37 potential profile links
+2025-04-07 15:00:26,875 - INFO - Next button available: True
+2025-04-07 15:00:27,407 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:00:28,431 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=4&sid=~3z_85
+2025-04-07 15:00:28,431 - INFO - LLM decided: 1 - Clicking the next page will allow us to collect more profiles and gather additional data for our analysis.
+2025-04-07 15:00:42,930 - INFO - Detected 30 potential profile links
+2025-04-07 15:00:42,954 - INFO - Next button available: True
+2025-04-07 15:00:43,401 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:00:44,881 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=5&sid=BX!_85
+2025-04-07 15:00:44,881 - INFO - LLM decided: 1 - Clicking the next page will allow us to collect more profiles and gather additional data, helping us reach our goal of collecting information on Software Engineers in Bhubaneswar.
+2025-04-07 15:00:55,402 - INFO - Detected 34 potential profile links
+2025-04-07 15:00:55,451 - INFO - Next button available: True
+2025-04-07 15:00:56,211 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:00:57,383 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=6&sid=64Y_85
+2025-04-07 15:00:57,383 - INFO - LLM decided: 2 - It's a good idea to scrape the current page to collect more profiles before deciding whether to click on the next page.
+2025-04-07 15:01:02,451 - INFO - Found 34 links with '/in/', filtering...
+2025-04-07 15:01:02,520 - INFO - Scraped: Vivek Kumar
+View Vivek Kumar’s profile - https://www.linkedin.com/in/vivek-kumar-se
+2025-04-07 15:01:02,552 - INFO - Scraped: Ankit Sinha - https://www.linkedin.com/in/ACoAAEY3U1kB0QdTCqQEbD_AcUQPn2prXVX-R-o
+2025-04-07 15:01:02,614 - INFO - Scraped: Achyut Yadav
+View Achyut Yadav’s profile - https://www.linkedin.com/in/achyut-yadav-1b25441a1
+2025-04-07 15:01:02,645 - INFO - Scraped: Aditi Gupta - https://www.linkedin.com/in/ACoAADqm-sYBsU6dJaMheZBBbTr9VbQg7Qkbt0g
+2025-04-07 15:01:02,678 - INFO - Scraped: Yashaswini Sarangi - https://www.linkedin.com/in/ACoAAD46tGsBTEOYDNTDSkp59xD_P6ObU4rHBAw
+2025-04-07 15:01:02,731 - INFO - Scraped: Japneet singh Bhatia
+View Japneet singh Bhatia’s profile - https://www.linkedin.com/in/japneetsbhatia
+2025-04-07 15:01:02,765 - INFO - Scraped: Sanjeevini Abhi - https://www.linkedin.com/in/ACoAACjF1rsBZUhorAhXwGHOszbP0Ymd1rOsZg0
+2025-04-07 15:01:02,802 - INFO - Scraped: Aryan Krishna - https://www.linkedin.com/in/ACoAADE7fMYBaC1-eBaWkg0V5yyd2WiHG4ksBy0
+2025-04-07 15:01:02,870 - INFO - Scraped: Ankit Sirmor
+View Ankit Sirmor’s profile - https://www.linkedin.com/in/ankit-sirmor-4b33035b
+2025-04-07 15:01:02,932 - INFO - Scraped: Aryan Chauhan - https://www.linkedin.com/in/ACoAADwyyksBm-z0ybHHbMGyyVDoZ-m8NgleiWs
+2025-04-07 15:01:03,003 - INFO - Scraped: Preetam Kumar Pradhan
+View Preetam Kumar Pradhan’s profile - https://www.linkedin.com/in/preetam-kumar-pradhan
+2025-04-07 15:01:03,042 - INFO - Scraped: Diya Ghosh - https://www.linkedin.com/in/ACoAAEIkTK0Bhhw0lIPeFv1ypD4or4ZfgZN52xc
+2025-04-07 15:01:03,110 - INFO - Scraped: Sahil Sucharita Rout
+View Sahil Sucharita Rout’s profile - https://www.linkedin.com/in/sahilsr20
+2025-04-07 15:01:03,170 - INFO - Scraped: Devna Sharma - https://www.linkedin.com/in/ACoAACXp61cBwp3vJgQ1l12QmH_i5BWu82DkIks
+2025-04-07 15:01:03,234 - INFO - Scraped: Sourav Kunda
+View Sourav Kunda’s profile - https://www.linkedin.com/in/souravkunda
+2025-04-07 15:01:03,292 - INFO - Scraped: Rohit Badiya
+View Rohit Badiya’s profile - https://www.linkedin.com/in/rohit-badiya-69507213a
+2025-04-07 15:01:03,362 - INFO - Scraped: Banti Kumar - https://www.linkedin.com/in/ACoAAES4JSEBP_0x7UPVkPQuY_gS-7LtL4T0K84
+2025-04-07 15:01:03,430 - INFO - Scraped: Sumanta Swain
+View Sumanta Swain’s profile - https://www.linkedin.com/in/sumanta-swain-556518242
+2025-04-07 15:01:03,565 - INFO - Scraped: Bikash Mahapatra
+View Bikash Mahapatra’s profile - https://www.linkedin.com/in/bikashmahapatra
+2025-04-07 15:01:03,601 - INFO - Scraped 19 valid profiles
+2025-04-07 15:01:17,162 - INFO - Detected 34 potential profile links
+2025-04-07 15:01:17,211 - INFO - Next button available: True
+2025-04-07 15:01:18,042 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:01:19,206 - INFO - Cached new action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=6&sid=64Y_104
+2025-04-07 15:01:19,206 - INFO - LLM decided: 2 - It's better to scrape the current page before deciding whether to click on the next page. This way we ensure we have all the available profiles before moving forward.
+2025-04-07 15:01:24,271 - INFO - Found 34 links with '/in/', filtering...
+2025-04-07 15:01:24,610 - INFO - Scraped 0 valid profiles
+2025-04-07 15:01:24,610 - WARNING - No profiles scraped. Screenshot saved.
+2025-04-07 15:01:33,565 - INFO - Using cached action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=6&sid=64Y_104: {'action': '2', 'reasoning': "It's better to scrape the current page before deciding whether to click on the next page. This way we ensure we have all the available profiles before moving forward."}
+2025-04-07 15:01:33,570 - INFO - LLM decided: 2 - It's better to scrape the current page before deciding whether to click on the next page. This way we ensure we have all the available profiles before moving forward.
+2025-04-07 15:01:38,622 - INFO - Found 34 links with '/in/', filtering...
+2025-04-07 15:01:38,986 - INFO - Scraped 0 valid profiles
+2025-04-07 15:01:38,986 - WARNING - No profiles scraped. Screenshot saved.
+2025-04-07 15:01:52,942 - INFO - Using cached action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=6&sid=64Y_104: {'action': '2', 'reasoning': "It's better to scrape the current page before deciding whether to click on the next page. This way we ensure we have all the available profiles before moving forward."}
+2025-04-07 15:01:52,942 - INFO - LLM decided: 2 - It's better to scrape the current page before deciding whether to click on the next page. This way we ensure we have all the available profiles before moving forward.
+2025-04-07 15:01:58,001 - INFO - Found 34 links with '/in/', filtering...
+2025-04-07 15:01:58,400 - INFO - Scraped 0 valid profiles
+2025-04-07 15:01:58,400 - WARNING - No profiles scraped. Screenshot saved.
+2025-04-07 15:02:10,171 - INFO - Using cached action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=6&sid=64Y_104: {'action': '2', 'reasoning': "It's better to scrape the current page before deciding whether to click on the next page. This way we ensure we have all the available profiles before moving forward."}
+2025-04-07 15:02:10,171 - INFO - LLM decided: 2 - It's better to scrape the current page before deciding whether to click on the next page. This way we ensure we have all the available profiles before moving forward.
+2025-04-07 15:02:15,241 - INFO - Found 34 links with '/in/', filtering...
+2025-04-07 15:02:16,042 - INFO - Scraped 0 valid profiles
+2025-04-07 15:02:16,042 - WARNING - No profiles scraped. Screenshot saved.
+2025-04-07 15:02:31,051 - INFO - Using cached action for https://www.linkedin.com/search/results/people/?keywords=Software%20Engineer%20Bhubaneswar&origin=GLOBAL_SEARCH_HEADER&page=6&sid=64Y_104: {'action': '2', 'reasoning': "It's better to scrape the current page before deciding whether to click on the next page. This way we ensure we have all the available profiles before moving forward."}
+2025-04-07 15:02:31,051 - INFO - LLM decided: 2 - It's better to scrape the current page before deciding whether to click on the next page. This way we ensure we have all the available profiles before moving forward.
+2025-04-07 15:02:36,113 - INFO - Found 34 links with '/in/', filtering...
+2025-04-07 15:02:36,412 - INFO - Scraped 0 valid profiles
+2025-04-07 15:02:36,412 - WARNING - No profiles scraped. Screenshot saved.
+2025-04-07 15:02:46,163 - ERROR - Stopping due to potential infinite loop
+2025-04-07 15:02:46,177 - INFO - Total profiles collected: 104
+2025-04-07 15:08:08,010 - INFO - Loaded credentials - Username: chattree.sam@gmail.com
+2025-04-07 15:08:08,232 - INFO - ====== WebDriver manager ======
+2025-04-07 15:08:10,835 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-07 15:08:10,983 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-07 15:08:11,121 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-07 15:08:15,881 - INFO - Entered username
+2025-04-07 15:08:16,013 - INFO - Entered password
+2025-04-07 15:08:19,347 - INFO - Clicked login button
+2025-04-07 15:08:19,361 - INFO - Login successful
+2025-04-07 15:08:41,306 - INFO - Navigated to people search page
+2025-04-07 15:08:41,351 - INFO - Search bar located and interactable
+2025-04-07 15:08:58,624 - INFO - Searching for: Data Scientist New Delhi
+2025-04-07 15:10:03,921 - WARNING - Attempt 1/3: No profile links found. Retrying...
+2025-04-07 15:11:14,176 - WARNING - Attempt 2/3: No profile links found. Retrying...
+2025-04-07 15:11:23,382 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002459B720CE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0bb4918655d1b5e51b436b54676caede/execute/sync
+2025-04-07 15:11:27,458 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002459B721D00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0bb4918655d1b5e51b436b54676caede/execute/sync
+2025-04-07 15:11:31,518 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002459B722330>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0bb4918655d1b5e51b436b54676caede/execute/sync
+2025-04-07 15:11:35,552 - ERROR - Error detecting elements: HTTPConnectionPool(host='localhost', port=56563): Max retries exceeded with url: /session/0bb4918655d1b5e51b436b54676caede/execute/sync (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002459B722780>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-04-07 15:15:41,500 - INFO - Loaded credentials - Username: chattree.sam@gmail.com
+2025-04-07 15:15:48,363 - INFO - Entered username
+2025-04-07 15:15:48,593 - INFO - Entered password
+2025-04-07 15:15:48,745 - INFO - Clicked login button
+2025-04-07 15:16:00,917 - ERROR - Login failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D5811F55+78133]
+	GetHandleVerifier [0x00007FF7D5811FB0+78224]
+	(No symbol) [0x00007FF7D55D91BA]
+	(No symbol) [0x00007FF7D55C4F25]
+	(No symbol) [0x00007FF7D55E9EE4]
+	(No symbol) [0x00007FF7D565EC8F]
+	(No symbol) [0x00007FF7D567EB12]
+	(No symbol) [0x00007FF7D5656F33]
+	(No symbol) [0x00007FF7D5620358]
+	(No symbol) [0x00007FF7D56210C3]
+	GetHandleVerifier [0x00007FF7D5ADBA8D+3001453]
+	GetHandleVerifier [0x00007FF7D5AD5E72+2977874]
+	GetHandleVerifier [0x00007FF7D5AF497D+3103581]
+	GetHandleVerifier [0x00007FF7D582C7EA+186826]
+	GetHandleVerifier [0x00007FF7D58343FF+218591]
+	GetHandleVerifier [0x00007FF7D5819D94+110452]
+	GetHandleVerifier [0x00007FF7D5819F42+110882]
+	GetHandleVerifier [0x00007FF7D5800379+5465]
+	BaseThreadInitThunk [0x00007FF8D4FEE8D7+23]
+	RtlUserThreadStart [0x00007FF8D69314FC+44]
+
+2025-04-07 15:16:09,698 - INFO - Entered username
+2025-04-07 15:16:09,882 - INFO - Entered password
+2025-04-07 15:16:14,751 - INFO - Clicked login button
+2025-04-07 15:16:14,771 - INFO - Login successful
+2025-04-07 15:16:32,609 - INFO - Entered username
+2025-04-07 15:16:32,781 - INFO - Entered password
+2025-04-07 15:16:36,412 - INFO - Clicked login button
+2025-04-07 15:16:36,566 - INFO - Login successful
+2025-04-07 15:17:01,964 - INFO - Navigated to people search page
+2025-04-07 15:17:25,553 - INFO - Searching for: Software Engineer New Delhi
+2025-04-07 15:17:34,758 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001968A772510>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ebe1ba2e5652ebe63f1bb20a7fd30882/elements
+2025-04-07 15:17:38,848 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001968A772660>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ebe1ba2e5652ebe63f1bb20a7fd30882/elements
+2025-04-07 15:17:42,923 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001968A772C00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ebe1ba2e5652ebe63f1bb20a7fd30882/elements
+2025-04-07 15:17:46,986 - ERROR - Error detecting elements: HTTPConnectionPool(host='localhost', port=56885): Max retries exceeded with url: /session/ebe1ba2e5652ebe63f1bb20a7fd30882/elements (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001968A772E40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-04-07 15:17:51,033 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001968A771D60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9d51e3afa13ccd65b9707025c856bf69
+2025-04-07 15:17:55,074 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001968A773170>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9d51e3afa13ccd65b9707025c856bf69
+2025-04-07 15:17:59,133 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001968A773320>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9d51e3afa13ccd65b9707025c856bf69
+2025-04-07 15:18:11,366 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001968A742690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ebe1ba2e5652ebe63f1bb20a7fd30882
+2025-04-07 15:18:15,434 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001968A771A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ebe1ba2e5652ebe63f1bb20a7fd30882
+2025-04-07 15:18:19,520 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001968A773020>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ebe1ba2e5652ebe63f1bb20a7fd30882
+2025-04-07 15:18:45,337 - INFO - Loaded credentials - Username: chattree.sam@gmail.com
+2025-04-07 15:18:50,161 - INFO - Entered username
+2025-04-07 15:18:50,314 - INFO - Entered password
+2025-04-07 15:18:50,433 - INFO - Clicked login button
+2025-04-07 15:18:57,336 - ERROR - Login failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D5811F55+78133]
+	GetHandleVerifier [0x00007FF7D5811FB0+78224]
+	(No symbol) [0x00007FF7D55D91BA]
+	(No symbol) [0x00007FF7D55C4F25]
+	(No symbol) [0x00007FF7D55E9EE4]
+	(No symbol) [0x00007FF7D565EC8F]
+	(No symbol) [0x00007FF7D567EB12]
+	(No symbol) [0x00007FF7D5656F33]
+	(No symbol) [0x00007FF7D5620358]
+	(No symbol) [0x00007FF7D56210C3]
+	GetHandleVerifier [0x00007FF7D5ADBA8D+3001453]
+	GetHandleVerifier [0x00007FF7D5AD5E72+2977874]
+	GetHandleVerifier [0x00007FF7D5AF497D+3103581]
+	GetHandleVerifier [0x00007FF7D582C7EA+186826]
+	GetHandleVerifier [0x00007FF7D58343FF+218591]
+	GetHandleVerifier [0x00007FF7D5819D94+110452]
+	GetHandleVerifier [0x00007FF7D5819F42+110882]
+	GetHandleVerifier [0x00007FF7D5800379+5465]
+	BaseThreadInitThunk [0x00007FF8D4FEE8D7+23]
+	RtlUserThreadStart [0x00007FF8D69314FC+44]
+
+2025-04-07 15:18:57,336 - ERROR - Task for Data Scientist New Delhi failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D5811F55+78133]
+	GetHandleVerifier [0x00007FF7D5811FB0+78224]
+	(No symbol) [0x00007FF7D55D91BA]
+	(No symbol) [0x00007FF7D55C4F25]
+	(No symbol) [0x00007FF7D55E9EE4]
+	(No symbol) [0x00007FF7D565EC8F]
+	(No symbol) [0x00007FF7D567EB12]
+	(No symbol) [0x00007FF7D5656F33]
+	(No symbol) [0x00007FF7D5620358]
+	(No symbol) [0x00007FF7D56210C3]
+	GetHandleVerifier [0x00007FF7D5ADBA8D+3001453]
+	GetHandleVerifier [0x00007FF7D5AD5E72+2977874]
+	GetHandleVerifier [0x00007FF7D5AF497D+3103581]
+	GetHandleVerifier [0x00007FF7D582C7EA+186826]
+	GetHandleVerifier [0x00007FF7D58343FF+218591]
+	GetHandleVerifier [0x00007FF7D5819D94+110452]
+	GetHandleVerifier [0x00007FF7D5819F42+110882]
+	GetHandleVerifier [0x00007FF7D5800379+5465]
+	BaseThreadInitThunk [0x00007FF8D4FEE8D7+23]
+	RtlUserThreadStart [0x00007FF8D69314FC+44]
+
+2025-04-07 15:19:03,850 - INFO - Entered username
+2025-04-07 15:19:03,950 - INFO - Entered password
+2025-04-07 15:19:07,973 - INFO - Clicked login button
+2025-04-07 15:19:08,776 - INFO - Login successful
+2025-04-07 15:19:35,707 - INFO - Navigated to people search page
+2025-04-07 15:19:58,076 - INFO - Searching for: Data Scientist Bhubaneswar
+2025-04-07 15:20:07,684 - INFO - Entered username
+2025-04-07 15:20:07,892 - INFO - Entered password
+2025-04-07 15:20:11,783 - INFO - Clicked login button
+2025-04-07 15:20:12,036 - INFO - Login successful
+2025-04-07 15:20:36,032 - INFO - Navigated to people search page
+2025-04-07 15:20:53,760 - INFO - Searching for: Software Engineer New Delhi
+2025-04-07 15:20:59,968 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:21:00,013 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:21:01,345 - INFO - LLM decided: 2 - It's better to scrape the current page since we are not at the end of the available profiles yet. This will allow us to gather more data before considering moving to the next page.
+2025-04-07 15:21:06,531 - INFO - Scraped profile: Anuroop Roy
+View Anuroop Roy’s profile - https://www.linkedin.com/in/anurooproy
+2025-04-07 15:21:06,645 - INFO - Scraped profile: Ayanava Mukhopadhyay
+View Ayanava Mukhopadhyay’s profile - https://www.linkedin.com/in/ayanavam
+2025-04-07 15:21:06,765 - INFO - Scraped profile: AYUSH MOHANTY
+View AYUSH MOHANTY’s profile - https://www.linkedin.com/in/ayush-mohanty10
+2025-04-07 15:21:06,899 - INFO - Scraped profile: Tushar Mitra
+View Tushar Mitra’s profile - https://www.linkedin.com/in/tushar-mitra-867028261
+2025-04-07 15:21:07,002 - INFO - Scraped profile: Lakkshit Khare
+View Lakkshit Khare’s profile - https://www.linkedin.com/in/lakkshitkhare
+2025-04-07 15:21:07,063 - INFO - Scraped profile: Pracheeta Gupta - https://www.linkedin.com/in/ACoAACmc9ogB0TUScl0XKwG7VrAjV_2UhNG6lWY
+2025-04-07 15:21:07,167 - INFO - Scraped profile: Snehashree Sanghamitra
+View Snehashree Sanghamitra’s profile - https://www.linkedin.com/in/snehashree-sanghamitra
+2025-04-07 15:21:07,299 - INFO - Scraped profile: Simran Sarah
+View Simran Sarah’s profile - https://www.linkedin.com/in/simran-sarah-133274224
+2025-04-07 15:21:07,398 - INFO - Scraped profile: S Mohanty
+View S Mohanty’s profile - https://www.linkedin.com/in/s-mohanty-347829294
+2025-04-07 15:21:07,581 - INFO - Scraped profile: Abhi Sen
+View Abhi Sen’s profile - https://www.linkedin.com/in/abhisen
+2025-04-07 15:21:07,623 - INFO - Scraped profile: Sloveni Nayak - https://www.linkedin.com/in/ACoAADvZgFoB40_qfNaffZeIeiG0-QcvjlgMtno
+2025-04-07 15:21:07,718 - INFO - Scraped profile: Raushan kumar
+View Raushan kumar’s profile - https://www.linkedin.com/in/raushan-kumar-a361221a0
+2025-04-07 15:21:27,082 - INFO - LLM decided: 2 - Since we have not repeated the previous action and there are still profiles and cards left to scrape on the current page, it's best to scrape the current page to gather more data before considering clicking to the next page.
+2025-04-07 15:21:32,347 - INFO - Scraped profile: Ritika Sharma
+View Ritika Sharma’s profile - https://www.linkedin.com/in/ritika-sharma-042a7b192
+2025-04-07 15:21:32,497 - INFO - Scraped profile: Surbhi Sinha
+View Surbhi Sinha’s profile - https://www.linkedin.com/in/surbhi-sinha-554902176
+2025-04-07 15:21:32,555 - INFO - Scraped profile: Shuvajyoti Kar - https://www.linkedin.com/in/ACoAAD0Bo_IBYnwctGIFLJbOfqxKM0lplg2QG3c
+2025-04-07 15:21:32,621 - INFO - Scraped profile: Ritvik Sangwan
+View Ritvik Sangwan’s profile - https://www.linkedin.com/in/ritviksangwan
+2025-04-07 15:21:32,648 - INFO - Scraped profile: Mani Shankar Jha - https://www.linkedin.com/in/ACoAADqB3lIBGEIfSF2xWKRlzOX3S6M_CLHg33c
+2025-04-07 15:21:32,786 - INFO - Scraped profile: Swapnil Maurya
+View Swapnil Maurya’s profile - https://www.linkedin.com/in/swapnil-maurya-528071200
+2025-04-07 15:21:32,939 - INFO - Scraped profile: Aditya .
+View Aditya .’s profile - https://www.linkedin.com/in/aditya-56bbb6223
+2025-04-07 15:21:32,971 - INFO - Scraped profile: Aditi Mukherjee - https://www.linkedin.com/in/ACoAAECRduEBwgzXkMhHJiAty0AFQDBtnCTiyew
+2025-04-07 15:21:33,071 - INFO - Scraped profile: Chahat B.
+View Chahat B.’s profile - https://www.linkedin.com/in/chahatbansal
+2025-04-07 15:21:33,165 - INFO - Scraped profile: Krish Aryan
+View Krish Aryan’s profile - https://www.linkedin.com/in/krisharyan117
+2025-04-07 15:21:33,195 - INFO - Scraped profile: MD Sahil - https://www.linkedin.com/in/ACoAAEUsbB0BlyZjMFIEg7Y19IyoilMmBF7Sk-k
+2025-04-07 15:21:33,320 - INFO - Scraped profile: Nitin Kumar
+View Nitin Kumar’s profile - https://www.linkedin.com/in/nitin-kumar
+2025-04-07 15:21:33,394 - INFO - Scraped profile: SOHAM PATRA - https://www.linkedin.com/in/ACoAAD8ybtsBuC2SUEH70LJaBi-NhzXNSIlsXTY
+2025-04-07 15:21:33,520 - INFO - Scraped profile: Siddharth Bansal
+View Siddharth Bansal’s profile - https://www.linkedin.com/in/siddharth-bansal-45a4471b2
+2025-04-07 15:21:33,782 - INFO - Scraped profile: Rishita Sachdeva
+View Rishita Sachdeva’s profile - https://www.linkedin.com/in/rish4
+2025-04-07 15:21:50,431 - INFO - Retrying request to /chat/completions in 0.473734 seconds
+2025-04-07 15:21:51,201 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:21:51,612 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:21:52,622 - INFO - LLM decided: 2 - Since we have not reached the maximum number of profiles to scrape yet and there are more profiles to scrape on the current page, it's efficient to scrape the current page before considering moving to the next page.
+2025-04-07 15:22:11,881 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002493FB9FDD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d41d193be653735793316a9ff42c3bd5
+2025-04-07 15:22:15,984 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002493FC5B3B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d41d193be653735793316a9ff42c3bd5
+2025-04-07 15:22:20,061 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002493FC5B9E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d41d193be653735793316a9ff42c3bd5
+2025-04-07 15:22:36,121 - INFO - Loaded credentials - Username: chattree.sam@gmail.com
+2025-04-07 15:22:58,031 - INFO - Loaded credentials - Username: chattree.sam@gmail.com
+2025-04-07 15:23:02,646 - INFO - Entered username
+2025-04-07 15:23:02,816 - INFO - Entered password
+2025-04-07 15:23:06,636 - INFO - Clicked login button
+2025-04-07 15:23:06,720 - INFO - Login successful
+2025-04-07 15:23:37,625 - INFO - Navigated to people search page
+2025-04-07 15:23:58,900 - INFO - Searching for: Data Scientist New Delhi
+2025-04-07 15:24:08,531 - INFO - Entered username
+2025-04-07 15:24:08,663 - INFO - Entered password
+2025-04-07 15:24:13,091 - INFO - Clicked login button
+2025-04-07 15:24:13,296 - INFO - Login successful
+2025-04-07 15:24:37,155 - INFO - Navigated to people search page
+2025-04-07 15:24:55,316 - INFO - Searching for: Data Scientist Bhubaneswar
+2025-04-07 15:25:01,272 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:25:01,303 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:25:02,687 - INFO - LLM decided: 2 - It's efficient to scrape the current page since we are not at the end of the list yet. This will allow us to gather more profiles before considering moving to the next page.
+2025-04-07 15:25:24,775 - INFO - LLM decided: 2 - Since we have not reached the maximum number of profiles to scrape yet, it would be efficient to scrape the current page to gather more data before considering moving to the next page.
+2025-04-07 15:25:29,942 - INFO - Scraped profile: Aaryan Ahuja
+View Aaryan Ahuja’s profile - https://www.linkedin.com/in/aaryan-ahuja
+2025-04-07 15:25:29,962 - INFO - Scraped profile: Disha Bisht - https://www.linkedin.com/in/ACoAAETeryEBQjN8Xl-H4WBhChSKko1v_aHc17Y
+2025-04-07 15:25:30,052 - INFO - Scraped profile: Dr. Satish Kumar
+View Dr. Satish Kumar’s profile - https://www.linkedin.com/in/satishkumar0
+2025-04-07 15:25:30,159 - INFO - Scraped profile: PRANSHU CHOURASIA
+View PRANSHU CHOURASIA’s profile - https://www.linkedin.com/in/pranshu-chourasia
+2025-04-07 15:25:30,273 - INFO - Scraped profile: Sneha R.
+View Sneha R.’s profile - https://www.linkedin.com/in/snehaaroychowdhury
+2025-04-07 15:25:30,356 - INFO - Scraped profile: Rudrapriya Chakraborty - https://www.linkedin.com/in/ACoAAC7C8csBvfV7XnGkrNZqwoBfhUxuzLeksDY
+2025-04-07 15:25:30,504 - INFO - Scraped profile: Dishant .
+View Dishant .’s profile - https://www.linkedin.com/in/dishant-182b651a5
+2025-04-07 15:25:30,581 - INFO - Scraped profile: Upasana .
+View Upasana .’s profile - https://www.linkedin.com/in/upasana-a9965a22
+2025-04-07 15:25:30,651 - INFO - Scraped profile: Gourav Singhal
+View Gourav Singhal’s profile - https://www.linkedin.com/in/gourav-singhal-ab367479
+2025-04-07 15:25:30,714 - INFO - Scraped profile: Naman Singh - https://www.linkedin.com/in/ACoAAFOfN9EBfFzzDFtVAW1bGdqH32yZToRI6qE
+2025-04-07 15:25:30,784 - INFO - Scraped profile: Suraaj Hasija
+View Suraaj Hasija’s profile - https://www.linkedin.com/in/suraajhasija
+2025-04-07 15:25:30,816 - INFO - Scraped profile: Provides services - Corporate Training - https://www.linkedin.com/in/ACoAABCj0aQBSL4DIrbxg35iSYDtYHPF2TP0K7A
+2025-04-07 15:25:30,887 - INFO - Scraped profile: Shailendra Singh Kathait
+View Shailendra Singh Kathait’s profile - https://www.linkedin.com/in/shailendrasinghk
+2025-04-07 15:25:30,966 - INFO - Scraped profile: Sarthak Srivastava - https://www.linkedin.com/in/ACoAAD3RmOABSg7QBSO3KBfZmN-aAqat6aWYbws
+2025-04-07 15:25:31,052 - INFO - Scraped profile: Bhawna Yadav
+View Bhawna Yadav’s profile - https://www.linkedin.com/in/bhawna-yadav-tech
+2025-04-07 15:25:47,022 - INFO - Retrying request to /chat/completions in 0.389235 seconds
+2025-04-07 15:25:47,781 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:25:48,253 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:25:49,070 - INFO - LLM decided: 2 - Since we have already clicked "Next" once and there are still profiles left on the current page, it's best to scrape the current page before considering clicking "Next" again. This will ensure we capture all available data before moving to the next page.
+2025-04-07 15:26:10,173 - INFO - LLM decided: 2 - Since we have already clicked "Next" once, it's better to scrape the current page to ensure we gather all available data before considering whether to proceed to the next page.
+2025-04-07 15:26:34,161 - INFO - Retrying request to /chat/completions in 0.408658 seconds
+2025-04-07 15:26:34,879 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:26:35,284 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:26:36,223 - INFO - LLM decided: 2 - Since we have already clicked next page twice and have not reached the end of the profiles, it's better to scrape the current page to collect more data before considering moving to the next page.
+2025-04-07 15:26:59,557 - INFO - LLM decided: 2 - Since we have already clicked "Next" twice and the next page is still available, it's better to scrape the current page before considering clicking "Next" again. This will help ensure we capture the data from the current page before moving on.
+2025-04-07 15:27:19,907 - INFO - Retrying request to /chat/completions in 0.396950 seconds
+2025-04-07 15:27:20,395 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:27:20,509 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:27:21,662 - INFO - LLM decided: 1 - Since we have already scraped the current page three times and there are more profiles to collect, clicking "Next page" will allow us to gather more data efficiently.
+2025-04-07 15:27:40,083 - INFO - LLM decided: 1 - Since we have already scraped the current page multiple times and there are more profiles to collect, clicking on the next page will help us gather additional profiles for the dataset.
+2025-04-07 15:27:57,748 - INFO - Retrying request to /chat/completions in 0.467538 seconds
+2025-04-07 15:27:58,501 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:27:58,921 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:28:00,120 - INFO - LLM decided: 2 - Since we have already clicked "Next" once and the next page is available, it's a good opportunity to scrape the current page before considering whether to click "Next" again.
+2025-04-07 15:28:05,291 - INFO - Scraped profile: AMAR SAISH
+View AMAR SAISH’s profile - https://www.linkedin.com/in/amar-saish
+2025-04-07 15:28:05,400 - INFO - Scraped profile: Anamika Das
+View Anamika Das’ profile - https://www.linkedin.com/in/anamika-das-472877245
+2025-04-07 15:28:05,478 - INFO - Scraped profile: Akangkha Sarkar - https://www.linkedin.com/in/ACoAADZGQL4BZGQtH0XUWTNvMI1EFDw9dIsutCo
+2025-04-07 15:28:05,550 - INFO - Scraped profile: Mohammad Hamid Reza
+View Mohammad Hamid Reza’s profile - https://www.linkedin.com/in/mohammad-hamid-reza-6a8921171
+2025-04-07 15:28:05,677 - INFO - Scraped profile: Anmol Gupta
+View Anmol Gupta’s profile - https://www.linkedin.com/in/anmol-gupta-a785811a2
+2025-04-07 15:28:05,767 - INFO - Scraped profile: Pratik Kumar Sahu
+View Pratik Kumar Sahu’s profile - https://www.linkedin.com/in/pratik-kumar-sahu-bbb226254
+2025-04-07 15:28:05,793 - INFO - Scraped profile: Koushik Paul - https://www.linkedin.com/in/ACoAAEJtX3QBD2CxtpwEJiX5KGYjagpIC0QNqKg
+2025-04-07 15:28:05,837 - INFO - Scraped profile: Aditi Chatterjee
+View Aditi Chatterjee’s profile - https://www.linkedin.com/in/aditi-chatterjee-41b7b8156
+2025-04-07 15:28:05,861 - INFO - Scraped profile: Shivansh Srivastav - https://www.linkedin.com/in/ACoAAEPdxmoB36i3LRO34D73wV_EQVLkipICN_c
+2025-04-07 15:28:05,905 - INFO - Scraped profile: Jyoti Singh
+View Jyoti Singh’s profile - https://www.linkedin.com/in/jyoti-singh-95a501144
+2025-04-07 15:28:05,971 - INFO - Scraped profile: Risheek Bhardwaj
+View Risheek Bhardwaj’s profile - https://www.linkedin.com/in/bhardwajrisheek
+2025-04-07 15:28:06,037 - INFO - Scraped profile: Deepesh Sharma
+View Deepesh Sharma’s profile - https://www.linkedin.com/in/deepesh463
+2025-04-07 15:28:06,121 - INFO - Scraped profile: Prity Dubey
+View Prity Dubey’s profile - https://www.linkedin.com/in/prity-dubey-a734b7203
+2025-04-07 15:28:24,577 - INFO - LLM decided: 2 - Since we have already clicked next page once and have not reached the end of the profiles yet, it's better to scrape the current page to gather more data before considering whether to click next page again.
+2025-04-07 15:28:29,705 - INFO - Scraped profile: Abhishek Anand
+View Abhishek Anand’s profile - https://www.linkedin.com/in/abhishek-anand-245471146
+2025-04-07 15:28:29,751 - INFO - Scraped profile: Navjot Singh
+View Navjot Singh’s profile - https://www.linkedin.com/in/ns3577
+2025-04-07 15:28:29,803 - INFO - Scraped profile: Sajid Ali
+View Sajid Ali’s profile - https://www.linkedin.com/in/sajidalimeo
+2025-04-07 15:28:29,881 - INFO - Scraped profile: Tanveer Khan
+View Tanveer Khan’s profile - https://www.linkedin.com/in/takhan11
+2025-04-07 15:28:29,926 - INFO - Scraped profile: Aditya Choudhary
+View Aditya Choudhary’s profile - https://www.linkedin.com/in/aditya-choudhary-590053189
+2025-04-07 15:28:29,970 - INFO - Scraped profile: Ayush Shrivastava
+View Ayush Shrivastava’s profile - https://www.linkedin.com/in/ayush-shrivastava-65a78a176
+2025-04-07 15:28:29,992 - INFO - Scraped profile: Provides services - Business Analytics - https://www.linkedin.com/in/ACoAACnDAyYBY78tXw5rzgF3_GcYjPg2WSNRZ-8
+2025-04-07 15:28:30,034 - INFO - Scraped profile: Prasoon Prakash
+View Prasoon Prakash’s profile - https://www.linkedin.com/in/prasoon-prakash-1b97b6190
+2025-04-07 15:28:30,062 - INFO - Scraped profile: Rajdeep Das - https://www.linkedin.com/in/ACoAADr1Uo0BzrjH2mCTxryIUIwXxZSglOPcUSQ
+2025-04-07 15:28:30,102 - INFO - Scraped profile: Manish Chaubey
+View Manish Chaubey’s profile - https://www.linkedin.com/in/manish-chaubey-681820136
+2025-04-07 15:28:30,152 - INFO - Scraped profile: Sarthak Mishra
+View Sarthak Mishra’s profile - https://www.linkedin.com/in/sarthak405
+2025-04-07 15:28:30,174 - INFO - Scraped profile: Status is reachable - https://www.linkedin.com/in/cbiorjs
+2025-04-07 15:28:47,708 - INFO - Retrying request to /chat/completions in 0.436812 seconds
+2025-04-07 15:28:48,742 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:28:48,816 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:28:50,218 - INFO - LLM decided: 1 - Since there are more profiles to scrape on the next page, clicking the next page will allow us to continue gathering more data.
+2025-04-07 15:29:04,323 - INFO - LLM decided: 1 - Since there are more profiles to scrape on the next page, clicking on the next page will allow us to gather more data before considering stopping the scraping process.
+2025-04-07 15:29:19,959 - INFO - Retrying request to /chat/completions in 0.462162 seconds
+2025-04-07 15:29:20,698 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:29:21,158 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:29:22,673 - INFO - LLM decided: 2 - Since we have not reached the limit of profiles to scrape yet, it's efficient to scrape the current page to gather more data before considering moving to the next page.
+2025-04-07 15:29:27,800 - INFO - Scraped profile: Manas Chandan Behera
+View Manas Chandan Behera’s profile - https://www.linkedin.com/in/manas-chandan-behera-803590199
+2025-04-07 15:29:27,834 - INFO - Scraped profile: Dhruv Singh Bora - https://www.linkedin.com/in/ACoAAD7nPj0BWRKOv2_3kTcf7whizoqjB8ayQOk
+2025-04-07 15:29:27,904 - INFO - Scraped profile: Rohan Kumar Sharma
+View Rohan Kumar Sharma’s profile - https://www.linkedin.com/in/rohan-kumar-sharma-207296292
+2025-04-07 15:29:27,931 - INFO - Scraped profile: Swapnil Raj - https://www.linkedin.com/in/ACoAADi-hUoB7f4_rOdUSsvQiUIEYtWKiHnrCXk
+2025-04-07 15:29:28,000 - INFO - Scraped profile: Swagato Bag
+View Swagato Bag’s profile - https://www.linkedin.com/in/swagatobag
+2025-04-07 15:29:28,095 - INFO - Scraped profile: Jagjit Singh
+View Jagjit Singh’s profile - https://www.linkedin.com/in/jagjit-singh-b3760617b
+2025-04-07 15:29:28,223 - INFO - Scraped profile: Saranya Biswas
+View Saranya Biswas’ profile - https://www.linkedin.com/in/saranya-biswas-0051b2242
+2025-04-07 15:29:28,295 - INFO - Scraped profile: Apratim Dutta - https://www.linkedin.com/in/ACoAADaM3tsBshhN_8UD4QMN-Abf4w9ln8foYiE
+2025-04-07 15:29:28,364 - INFO - Scraped profile: Pronay Ghosh
+View Pronay Ghosh’s profile - https://www.linkedin.com/in/pronay-ghosh-33200a128
+2025-04-07 15:29:28,459 - INFO - Scraped profile: Bratati Datta Gupta
+View Bratati Datta Gupta’s profile - https://www.linkedin.com/in/bratatidgupta
+2025-04-07 15:29:28,525 - INFO - Scraped profile: Nabajyoti Pathak
+View Nabajyoti Pathak’s profile - https://www.linkedin.com/in/nabajyoti-pathak-42392347
+2025-04-07 15:29:28,604 - INFO - Scraped profile: Status is reachable - https://www.linkedin.com/in/ratikanta-rout
+2025-04-07 15:29:28,649 - INFO - Scraped profile: Saptak Das - https://www.linkedin.com/in/ACoAAEB353cBHLtzaFtDoF5PlCKwjD6AWg5f77g
+2025-04-07 15:29:28,685 - INFO - Scraped profile: Akarshita Singh - https://www.linkedin.com/in/ACoAAEiLgt0B6wtlTDCQES9mi2sq7O3iSXjB8a0
+2025-04-07 15:29:28,753 - INFO - Scraped profile: Archishman Bandyopadhyay
+View Archishman Bandyopadhyay’s profile - https://www.linkedin.com/in/archib23
+2025-04-07 15:29:48,764 - INFO - LLM decided: 1 - Since there are more profiles to scrape and the "Next" option is available, clicking on the next page will allow us to continue gathering more profiles for scraping.
+2025-04-07 15:30:09,079 - INFO - Retrying request to /chat/completions in 0.472499 seconds
+2025-04-07 15:30:09,845 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:30:10,311 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:30:11,281 - INFO - LLM decided: 1 - Since there are more profiles to scrape on the next page, clicking the next page will allow us to gather more data before considering stopping the scraping process.
+2025-04-07 15:30:27,203 - INFO - LLM decided: 1 - Since there are more profiles to scrape and the "Next" option is available, clicking on the next page will allow us to continue gathering more profiles.
+2025-04-07 15:30:41,286 - INFO - Retrying request to /chat/completions in 0.473643 seconds
+2025-04-07 15:30:41,989 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:30:42,509 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:30:43,406 - INFO - LLM decided: 1 - Since we have not reached the maximum limit of profiles to scrape and there are more profiles on the next page, it is efficient to click on the next page to continue scraping more profiles.
+2025-04-07 15:30:58,050 - INFO - LLM decided: 2 - Since we are still within the scraping limit and there are more profiles to scrape, it's best to scrape the current page to gather more data before considering moving to the next page.
+2025-04-07 15:31:03,185 - INFO - Scraped profile: Advay Chandratre
+View Advay Chandratre’s profile - https://www.linkedin.com/in/advay-chandratre-447705173
+2025-04-07 15:31:03,237 - INFO - Scraped profile: Srinivas Rao
+View Srinivas Rao’s profile - https://www.linkedin.com/in/srinivas-rao-390a17151
+2025-04-07 15:31:03,300 - INFO - Scraped profile: Soumil Biswas
+View Soumil Biswas’ profile - https://www.linkedin.com/in/soumil-biswas
+2025-04-07 15:31:03,371 - INFO - Scraped profile: Bhavishya Pandit
+View Bhavishya Pandit’s profile - https://www.linkedin.com/in/bhavishya-pandit
+2025-04-07 15:31:03,409 - INFO - Scraped profile: Provides services - Interview Preparation, Public Speaking, Content Strategy, Career Development Coaching, Technical Writing, Ghostwriting, IT Consulting, Business Analytics - https://www.linkedin.com/in/ACoAACyQ_coBUggWAWmJLluayh20G_zzWW5Fxmg
+2025-04-07 15:31:03,479 - INFO - Scraped profile: Abhishek Parida
+View Abhishek Parida’s profile - https://www.linkedin.com/in/abhishek-parida-17b479154
+2025-04-07 15:31:03,550 - INFO - Scraped profile: Rahul Bouri
+View Rahul Bouri’s profile - https://www.linkedin.com/in/rahul-bouri
+2025-04-07 15:31:03,609 - INFO - Scraped profile: Gurjote Singh Sandhu
+View Gurjote Singh Sandhu’s profile - https://www.linkedin.com/in/gurjote27
+2025-04-07 15:31:03,680 - INFO - Scraped profile: Gaurav Gupta
+View Gaurav Gupta’s profile - https://www.linkedin.com/in/guptakvgaurav
+2025-04-07 15:31:03,752 - INFO - Scraped profile: Abhishek Mukherjee
+View Abhishek Mukherjee’s profile - https://www.linkedin.com/in/abhishekmukherjee1408
+2025-04-07 15:31:03,819 - INFO - Scraped profile: Aakash Verma
+View Aakash Verma’s profile - https://www.linkedin.com/in/aakashverma13
+2025-04-07 15:31:20,548 - INFO - Retrying request to /chat/completions in 0.429272 seconds
+2025-04-07 15:31:21,082 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:31:21,211 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:31:22,569 - INFO - LLM decided: 1 - Since there are more profiles to scrape and the "Next" option is available, clicking on the next page will allow us to continue gathering more profiles.
+2025-04-07 15:31:41,594 - INFO - LLM decided: 1 - Since there are still profiles left to scrape and the "Next" button is available, clicking on the next page will allow us to gather more profiles for scraping before reaching the limit of 200 profiles.
+2025-04-07 15:31:55,484 - INFO - Retrying request to /chat/completions in 0.449803 seconds
+2025-04-07 15:31:56,209 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:31:56,667 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:31:57,550 - INFO - LLM decided: 1 - Since there are still profiles left to scrape on the next page and we haven't reached the limit of 200 profiles, clicking on the next page will allow us to gather more data.
+2025-04-07 15:32:14,910 - INFO - LLM decided: 1 - Since there are still profiles remaining to be scraped on the current page, clicking on the next page will allow us to gather more data and maximize the scraping process.
+2025-04-07 15:32:34,873 - INFO - Retrying request to /chat/completions in 0.458478 seconds
+2025-04-07 15:32:35,578 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:32:35,820 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:32:37,100 - INFO - LLM decided: 1 - Since there are still profiles left to scrape on the next page, clicking on the next page will allow us to gather more data before considering stopping the scraping process.
+2025-04-07 15:32:53,319 - INFO - LLM decided: 1 - Since there are still profiles to scrape on the next page and we have not reached the limit of 200 profiles yet, it's efficient to click on the next page to continue scraping more profiles.
+2025-04-07 15:33:12,751 - INFO - Retrying request to /chat/completions in 0.402011 seconds
+2025-04-07 15:33:13,509 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:33:13,894 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:33:15,329 - INFO - LLM decided: 1 - Since there are still profiles left to scrape on the next page, it's best to click next to continue gathering more data.
+2025-04-07 15:33:29,440 - INFO - LLM decided: 1 - Since there are still profiles left to scrape on the next page, it's best to click next and continue scraping to gather more data.
+2025-04-07 15:33:45,725 - INFO - Retrying request to /chat/completions in 0.379579 seconds
+2025-04-07 15:33:46,207 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:33:46,319 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:33:47,701 - INFO - LLM decided: 1 - Since there are still profiles left to scrape on the next page and we have not reached the limit of 200 profiles, clicking the next page will allow us to continue gathering more data.
+2025-04-07 15:34:01,544 - INFO - LLM decided: 1 - Since there are more profiles to scrape and the "Next" button is available, clicking on the next page will allow us to gather more data from the following page.
+2025-04-07 15:34:16,040 - INFO - Retrying request to /chat/completions in 0.497207 seconds
+2025-04-07 15:34:16,793 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:34:17,274 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:34:18,103 - INFO - LLM decided: 1 - Since we have not reached the limit of 200 profiles yet and there are more profiles available on the next page, it is efficient to click on the next page to continue scraping more profiles.
+2025-04-07 15:34:37,388 - INFO - LLM decided: 1 - Since there are still profiles left to scrape and the "Next" button is available, clicking on the next page will allow us to gather more profiles for scraping.
+2025-04-07 15:34:52,420 - INFO - Retrying request to /chat/completions in 0.428008 seconds
+2025-04-07 15:34:53,148 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:34:53,883 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:34:54,704 - INFO - LLM decided: 1 - Since there are still profiles left to scrape on the current page and the "Next" button is available, it's best to click on the next page to continue scraping more profiles.
+2025-04-07 15:35:10,510 - INFO - LLM decided: 1 - Since there are still profiles left to scrape on the current page and the "Next" option is available, it's best to click on the next page to continue scraping more profiles.
+2025-04-07 15:35:29,365 - INFO - Retrying request to /chat/completions in 0.449455 seconds
+2025-04-07 15:35:30,134 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:35:30,933 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:35:32,283 - INFO - LLM decided: 1 - Since there are still profiles left to scrape on the next page, clicking on the next page will allow us to gather more data before considering stopping the scraping process.
+2025-04-07 15:35:47,229 - INFO - LLM decided: 1 - Since there are still profiles to be scraped on the next page and we have not reached the limit of 200 profiles, clicking on the next page will allow us to gather more data.
+2025-04-07 15:36:04,670 - INFO - Retrying request to /chat/completions in 0.431606 seconds
+2025-04-07 15:36:05,494 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:36:05,830 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:36:06,910 - INFO - LLM decided: 1 - Since there are more profiles to scrape and the "Next" option is available, clicking on the next page will allow us to gather more LinkedIn profiles for scraping.
+2025-04-07 15:36:26,310 - INFO - LLM decided: 1 - Since there are still profiles left to scrape on the current page, clicking next to move to the next page will allow us to gather more data efficiently.
+2025-04-07 15:36:44,819 - INFO - Retrying request to /chat/completions in 0.427278 seconds
+2025-04-07 15:36:45,509 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:36:45,723 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:36:46,879 - INFO - LLM decided: 1 - Since there are more profiles to be scraped on the next page, clicking on the next page will allow us to gather more data before considering other actions.
+2025-04-07 15:37:06,689 - INFO - LLM decided: 1 - Since there are still profiles left to scrape on the current page, clicking on the next page will allow us to gather more data and reach closer to the target of 200 profiles.
+2025-04-07 15:37:21,372 - INFO - Retrying request to /chat/completions in 0.438195 seconds
+2025-04-07 15:37:22,114 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:37:22,542 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:37:23,480 - INFO - LLM decided: 1 - Since we have not reached the limit of 200 profiles yet and there are more profiles available on the next page, clicking next page will allow us to gather more data before reaching the limit.
+2025-04-07 15:37:38,314 - INFO - LLM decided: 2 - Since we are at the end of the current page and have not reached the maximum number of profiles to scrape, it's best to scrape the current page before considering clicking on the next page.
+2025-04-07 15:37:43,504 - INFO - Scraped profile: Abhishek Pandey
+View Abhishek Pandey’s profile - https://www.linkedin.com/in/abhishek-pandey-29947317
+2025-04-07 15:37:43,634 - INFO - Scraped profile: Shreya Verma
+View Shreya Verma’s profile - https://www.linkedin.com/in/shreyaverma6
+2025-04-07 15:37:43,754 - INFO - Scraped profile: Lavanya Nemani
+View Lavanya Nemani’s profile - https://www.linkedin.com/in/lavanyanemani
+2025-04-07 15:37:43,844 - INFO - Scraped profile: Garima J.
+View Garima J.’s profile - https://www.linkedin.com/in/garima-j-a67604a5
+2025-04-07 15:37:43,898 - INFO - Scraped profile: Provides services - Tax Advisory, Healthcare Consulting, Educational Consulting, Non-profit Consulting, Technical Writing, Writing - https://www.linkedin.com/in/ACoAABZWOO8BSx3gq9zvRj2cS_ub-xAKCr-4ieY
+2025-04-07 15:37:44,004 - INFO - Scraped profile: Anisha Grover
+View Anisha Grover’s profile - https://www.linkedin.com/in/anishagrv
+2025-04-07 15:37:44,123 - INFO - Scraped profile: Shreyan Shrijan
+View Shreyan Shrijan’s profile - https://www.linkedin.com/in/shreyan-shrijan
+2025-04-07 15:37:44,257 - INFO - Scraped profile: Prachi Mittal
+View Prachi Mittal’s profile - https://www.linkedin.com/in/prachi-mittal-22546888
+2025-04-07 15:37:44,337 - INFO - Scraped profile: Raj Kishor
+View Raj Kishor’s profile - https://www.linkedin.com/in/raj-kishor
+2025-04-07 15:37:44,436 - INFO - Scraped profile: Srishti Gupta, Ph.D.
+View Srishti Gupta, Ph.D.’s profile - https://www.linkedin.com/in/srishti-gupta-ph-d-627aa738
+2025-04-07 15:38:03,615 - INFO - Entered username
+2025-04-07 15:38:03,706 - INFO - Entered password
+2025-04-07 15:38:08,079 - INFO - Clicked login button
+2025-04-07 15:38:08,136 - INFO - Login successful
+2025-04-07 15:38:35,739 - INFO - Navigated to people search page
+2025-04-07 15:38:53,375 - INFO - Searching for: Software Engineer New Delhi
+2025-04-07 15:39:01,717 - INFO - Entered username
+2025-04-07 15:39:01,855 - INFO - Entered password
+2025-04-07 15:39:05,861 - INFO - Clicked login button
+2025-04-07 15:39:05,896 - INFO - Login successful
+2025-04-07 15:39:31,795 - INFO - Navigated to people search page
+2025-04-07 15:39:52,645 - INFO - Searching for: Software Engineer Bhubaneswar
+2025-04-07 15:39:55,003 - INFO - Retrying request to /chat/completions in 0.470975 seconds
+2025-04-07 15:39:56,200 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-07 15:39:57,987 - INFO - LLM decided: 2 - Since we are on the current page with profiles available, it's best to scrape the current page to extract the information before considering moving to the next page.
+2025-04-07 15:40:17,650 - INFO - Total profiles collected: 207
